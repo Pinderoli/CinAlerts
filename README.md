@@ -108,7 +108,7 @@ ntfy topic. Options for per-user alerts:
 ## Running locally
 
 ```sh
-python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+python3 -m venv .venv  # Python 3.11+ && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m cinalerts run --dry-run           # scan and print, change nothing
 .venv/bin/python -m cinalerts run --dry-run --chains odeon --days 3
 NTFY_TOPIC=your-topic .venv/bin/python -m cinalerts test-notify

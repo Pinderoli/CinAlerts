@@ -19,13 +19,23 @@ PLIST="$HOME/Library/LaunchAgents/$LABEL.plist"
 
 [ -n "$GH" ] || { echo "Needs the GitHub CLI (gh) for push access: brew install gh && gh auth login" >&2; exit 1; }
 
+# Needs Python 3.11+ (macOS's /usr/bin/python3 is older). Shell aliases aren't visible here, so search.
+BASE_PY=""
+for p in python3.13 python3.12 python3.11 /opt/homebrew/bin/python3 /usr/local/bin/python3 python3; do
+  if command -v "$p" >/dev/null && "$p" -c 'import sys; sys.exit(sys.version_info < (3, 11))' 2>/dev/null; then
+    BASE_PY="$(command -v "$p")"; break
+  fi
+done
+[ -n "$BASE_PY" ] || { echo "Needs Python 3.11 or newer: brew install python" >&2; exit 1; }
+
 mkdir -p "$HOME_DIR"
 if [ ! -d "$HOME_DIR/repo/.git" ]; then
   git clone -q "$REPO_URL" "$HOME_DIR/repo"
 fi
 # Push using gh's stored login, configured for this clone only.
 git -C "$HOME_DIR/repo" config credential.helper "!$GH auth git-credential"
-python3 -m venv "$HOME_DIR/venv"
+rm -rf "$HOME_DIR/venv"
+"$BASE_PY" -m venv "$HOME_DIR/venv"
 "$HOME_DIR/venv/bin/pip" install -q --upgrade pip
 "$HOME_DIR/venv/bin/pip" install -q -r "$HOME_DIR/repo/requirements.txt"
 
