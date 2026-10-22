@@ -2323,6 +2323,13 @@
   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
   "year": 2026
  },
+ "sheep detectives|2026|balda,braun,galitzine,jackman": {
+  "checked": "2026-10-22T22:38:27",
+  "imdb": "tt32565993",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Sheep Detectives",
+  "year": 2026
+ },
  "shining||": {
   "checked": "2026-10-22T22:26:34",
   "imdb": "tt0081505",
@@ -3552,6 +3559,15 @@
    "war film"
   ],
   "released": "2026-05-28"
+ },
+ "wd|tt32565993": {
+  "genres": [
+   "comedy film",
+   "mystery film",
+   "family film",
+   "adventure film"
+  ],
+  "released": "2026-05-07"
  },
  "wd|tt32588798": {
   "genres": [
