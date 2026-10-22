@@ -1,8 +1,12 @@
 name: Scan cinemas
 
+# Chains behind Cloudflare (Odeon, Curzon, Cineworld, Vue) block GitHub's IPs, so without a proxy
+# this updates Everyman and Picturehouse only; other runners (e.g. a Mac) cover the rest.
+# Add a CINALERTS_PROXY secret (residential proxy URL) to scan everything from here.
+
 on:
   schedule:
-    - cron: "0 7 * * *" # daily, 07:00 UTC (8am UK summer time)
+    - cron: "0 7 * * *" # daily, 07:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -26,17 +30,13 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Scan, update site data, send alerts
+      - name: Scan, alert and publish
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          CINALERTS_PROXY: ${{ secrets.CINALERTS_PROXY }}
+          CINALERTS_RUNNER: github-actions
           TZ: Europe/London
-        run: python -m cinalerts run
-
-      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data data
-          git diff --cached --quiet && exit 0
-          git commit -m "Update listings $(date -u +%Y-%m-%d)"
-          git push
+          scripts/run-and-push.sh

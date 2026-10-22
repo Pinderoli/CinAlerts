@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import os
 import time
 
 from curl_cffi import requests
@@ -12,8 +13,17 @@ log = logging.getLogger(__name__)
 TIMEOUT = 45
 
 
-def session() -> requests.Session:
-    return requests.Session(impersonate="chrome", timeout=TIMEOUT)
+def session(proxied: bool = True) -> requests.Session:
+    """A Chrome-impersonating session.
+
+    Cinema chains behind Cloudflare block data-centre IPs (e.g. GitHub Actions). Setting
+    CINALERTS_PROXY (e.g. http://user:pass@host:port, ideally a residential proxy) routes chain
+    traffic through it so the scan can run anywhere. Pass proxied=False for IMDb/Wikidata/ntfy.
+    """
+    proxy = os.environ.get("CINALERTS_PROXY") if proxied else None
+    return requests.Session(
+        impersonate="chrome", timeout=TIMEOUT, proxies={"http": proxy, "https": proxy} if proxy else None
+    )
 
 
 def request(s: requests.Session, method: str, url: str, retries: int = 3, **kw):

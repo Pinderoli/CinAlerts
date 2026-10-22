@@ -50,11 +50,11 @@ def main() -> None:
                 n = sum(len(v) for v in f["showings"].values())
                 print(f"{f['year'] or '????'}  {f['title']:<45} {', '.join(f['genres']):<30} {len(f['showings']):>3} cinemas {n:>4} showings  [{f['reason']}]")
     elif args.cmd == "cinemas":
-        path = SITE_DATA / "cinemas.json"
-        if not path.exists():
+        files = sorted((SITE_DATA / "chains").glob("*.json"))
+        if not files:
             raise SystemExit("No cinema list yet - run `python -m cinalerts run` first.")
         q = args.search.lower()
-        for c in json.loads(path.read_text()):
+        for c in (c for f in files for c in json.loads(f.read_text())["cinemas"]):
             if q in f"{c['chain']} {c['name']} {c['city']}".lower():
                 print(f"{c['id']:<22} {c['name']}  ({c['city']})")
     elif args.cmd == "test-notify":

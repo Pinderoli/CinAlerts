@@ -24,5 +24,5 @@ def send(title: str, message: str, click: str | None = None, actions: list[dict]
         body["click"] = click
     if actions:
         body["actions"] = actions
-    http.request(http.session(), "POST", server, json=body, headers=headers)
+    http.request(http.session(proxied=False), "POST", server, json=body, headers=headers)
     return True

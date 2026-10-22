@@ -96,7 +96,7 @@ class Identifier:
     def __init__(self, cache_path: Path):
         self.cache_path = cache_path
         self.cache: dict = json.loads(cache_path.read_text()) if cache_path.exists() else {}
-        self.s = http.session()
+        self.s = http.session(proxied=False)
 
     def save(self) -> None:
         self.cache_path.parent.mkdir(parents=True, exist_ok=True)

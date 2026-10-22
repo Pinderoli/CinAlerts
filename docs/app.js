@@ -29,26 +29,56 @@ function fmtTime(iso) {
 
 function chainName(c) { return data.chains[c]?.name ?? c; }
 
+// Each chain's data is a separate file, written by whichever machine could reach that chain.
+async function loadChains() {
+  const files = await Promise.all(CHAIN_ORDER.map((c) =>
+    fetch(`data/chains/${c}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null)));
+  const films = new Map();
+  const out = { chains: {}, films: [], days_ahead: 0, generated: null };
+  const cinemas = [];
+  for (const f of files.filter(Boolean)) {
+    out.chains[f.chain] = { name: f.name, generated: f.generated };
+    out.days_ahead = Math.max(out.days_ahead, f.days_ahead);
+    if (!out.generated || f.generated > out.generated) out.generated = f.generated;
+    cinemas.push(...f.cinemas);
+    for (const film of f.films) {
+      const seen = films.get(film.key);
+      if (seen) {
+        Object.assign(seen.showings, film.showings);
+        seen.listed_as = [...new Set([...seen.listed_as, ...film.listed_as])];
+        seen.genres = [...new Set([...seen.genres, ...film.genres])].sort();
+      } else {
+        films.set(film.key, { ...film, showings: { ...film.showings } });
+      }
+    }
+  }
+  out.films = [...films.values()].sort((a, b) => firstShow(a).localeCompare(firstShow(b)) || a.title.localeCompare(b.title));
+  return [out, cinemas];
+}
+
+const firstShow = (f) => Object.values(f.showings).map((s) => s[0][0]).sort()[0];
+const STALE_MS = 36 * 3600 * 1000;
+const fmtDate = (iso) => new Date(iso).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" });
+
 async function load() {
-  const [r, c] = await Promise.all([fetch("data/reruns.json"), fetch("data/cinemas.json")]);
-  data = await r.json();
-  cinemas = await c.json();
+  [data, cinemas] = await loadChains();
+  if (!data.films.length && !cinemas.length) throw new Error("no data yet");
   cinemaById = Object.fromEntries(cinemas.map((c) => [c.id, c]));
 
-  $("#updated").textContent = `Updated ${new Date(data.generated).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" })}`;
+  $("#updated").textContent = `Updated ${fmtDate(data.generated)}`;
   $("#age").value = String(state.age);
   $("#mine").checked = state.mine;
 
-  const chains = CHAIN_ORDER.filter((c) => data.chains[c] || cinemas.some((x) => x.chain === c));
-  $("#chains").innerHTML = chains.map((c) => {
-    const down = data.chains[c] && !data.chains[c].ok;
-    return `<button class="chip${down ? " down" : ""}" data-chain="${c}" aria-pressed="false" title="${down ? "Not updated in the latest scan" : ""}">${esc(chainName(c))}</button>`;
-  }).join("");
+  const stale = (c) => Date.now() - new Date(data.chains[c].generated) > STALE_MS;
+  const chains = CHAIN_ORDER.filter((c) => data.chains[c]);
+  $("#chains").innerHTML = chains.map((c) =>
+    `<button class="chip${stale(c) ? " down" : ""}" data-chain="${c}" aria-pressed="false" title="Updated ${fmtDate(data.chains[c].generated)}">${esc(chainName(c))}</button>`
+  ).join("");
   const genres = [...new Set(data.films.flatMap((f) => f.genres))].sort();
   $("#genres").innerHTML = genres.map((g) => `<button class="chip" data-genre="${esc(g)}" aria-pressed="false">${esc(g)}</button>`).join("");
 
-  const failed = Object.entries(data.chains).filter(([, s]) => !s.ok).map(([c]) => chainName(c));
-  $("#status").textContent = failed.length ? `Couldn't update: ${failed.join(", ")}` : `All ${Object.keys(data.chains).length} chains scanned`;
+  const old = chains.filter(stale).map((c) => `${chainName(c)} (${fmtDate(data.chains[c].generated)})`);
+  $("#status").textContent = old.length ? `Not updated recently: ${old.join(", ")}` : `All ${chains.length} chains up to date`;
 
   updatePickCount();
   render();

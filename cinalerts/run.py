@@ -140,27 +140,36 @@ def find_reruns(screenings: list[Screening], ident: Identifier, cfg: Config) -> 
 
 
 def write_site(cinemas: list[Cinema], reruns: list[dict], status: dict, cfg: Config) -> None:
-    SITE_DATA.mkdir(parents=True, exist_ok=True)
-    # Keep cinemas from chains that failed this time, so the picker doesn't lose them.
-    old = {}
-    path = SITE_DATA / "cinemas.json"
-    if path.exists():
-        old = {c["id"]: c for c in json.loads(path.read_text())}
-    merged = {c["id"]: c for c in old.values() if not status.get(c["chain"], {}).get("ok")}
-    merged.update({c.id: asdict(c) for c in cinemas})
-    path.write_text(json.dumps(sorted(merged.values(), key=lambda c: (c["chain"], c["name"])), ensure_ascii=False))
-    (SITE_DATA / "reruns.json").write_text(
-        json.dumps(
-            {
-                "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
-                "min_years_old": cfg.min_years_old,
-                "days_ahead": cfg.days_ahead,
-                "chains": {c: {"name": CHAIN_NAMES[c], **st} for c, st in status.items()},
-                "films": reruns,
-            },
-            ensure_ascii=False,
+    """One file per chain, written only when that chain scanned OK.
+
+    A machine that can't reach a chain (e.g. GitHub Actions vs. Cloudflare) leaves its file alone, so
+    several runners can each contribute the chains they can reach. The site merges the files.
+    """
+    out = SITE_DATA / "chains"
+    out.mkdir(parents=True, exist_ok=True)
+    generated = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    for chain, st in status.items():
+        if not st.get("ok"):
+            continue
+        films = []
+        for f in reruns:
+            showings = {cid: s for cid, s in f["showings"].items() if cid.split(":", 1)[0] == chain}
+            if showings:
+                films.append({**f, "showings": showings})
+        (out / f"{chain}.json").write_text(
+            json.dumps(
+                {
+                    "chain": chain,
+                    "name": CHAIN_NAMES[chain],
+                    "generated": generated,
+                    "days_ahead": cfg.days_ahead,
+                    "min_years_old": cfg.min_years_old,
+                    "cinemas": [asdict(c) for c in sorted(cinemas, key=lambda c: c.name) if c.chain == chain],
+                    "films": films,
+                },
+                ensure_ascii=False,
+            )
         )
-    )
 
 
 def _fmt(start: str) -> str:
@@ -168,9 +177,12 @@ def _fmt(start: str) -> str:
     return d.strftime("%a %-d %b %H:%M")
 
 
-def send_alerts(reruns: list[dict], cinemas: dict[str, dict], cfg: Config, dry_run: bool) -> int:
-    state_path = DATA / "alerted.json"
-    state: dict = json.loads(state_path.read_text()) if state_path.exists() else {}
+def send_alerts(reruns: list[dict], cinemas: dict[str, dict], scanned: list[str], cfg: Config, dry_run: bool) -> int:
+    # Alert history is stored per chain (data/alerted/<chain>.json) for the same reason as the site data.
+    state_dir = DATA / "alerted"
+    state: dict = {}
+    for f in state_dir.glob("*.json"):
+        state.update(json.loads(f.read_text()))
     today = dt.date.today()
     realert_before = (today - dt.timedelta(days=cfg.realert_after_days)).isoformat()
     wanted = set(cfg.cinemas)
@@ -229,8 +241,10 @@ def send_alerts(reruns: list[dict], cinemas: dict[str, dict], cfg: Config, dry_r
     prune_before = (today - dt.timedelta(days=cfg.realert_after_days * 4)).isoformat()
     state = {k: v for k, v in state.items() if v["last_seen"] >= prune_before}
     if not dry_run:
-        DATA.mkdir(exist_ok=True)
-        state_path.write_text(json.dumps(state, indent=1, sort_keys=True))
+        state_dir.mkdir(parents=True, exist_ok=True)
+        for chain in scanned:
+            part = {k: v for k, v in state.items() if k.split("|", 1)[1].split(":", 1)[0] == chain}
+            (state_dir / f"{chain}.json").write_text(json.dumps(part, indent=1, sort_keys=True))
     return len(fresh)
 
 
@@ -244,9 +258,13 @@ def run(cfg: Config, notify_enabled: bool = True, chains: list[str] | None = Non
         ident.save()
         write_site(cinemas, reruns, status, cfg)
     if cfg.cinemas:
+        scanned = [c for c, st in status.items() if st.get("ok")]
         all_cinemas = {c.id: asdict(c) for c in cinemas}
-        n = send_alerts(reruns, all_cinemas, cfg, dry_run=not (notify_enabled and write))
+        n = send_alerts(reruns, all_cinemas, scanned, cfg, dry_run=not (notify_enabled and write))
         log.info("%d new re-runs at your cinemas", n)
     else:
         log.info("No cinemas configured in config.toml, so no alerts sent")
+    failed = [c for c, st in status.items() if not st.get("ok")]
+    if failed:
+        log.warning("Couldn't reach %s from here; their existing data was left as it was", ", ".join(failed))
     return reruns

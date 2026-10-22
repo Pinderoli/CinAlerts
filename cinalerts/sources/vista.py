@@ -32,6 +32,15 @@ def _text(v) -> str:
     return (v or {}).get("text") or "" if isinstance(v, dict) else (v or "")
 
 
+def _city(addr: dict) -> str:
+    """Curzon sometimes puts the postcode in "city"; fall back to the line before it."""
+    for v in (addr.get("city"), addr.get("line2")):
+        v = (v or "").strip(" ,")
+        if v and not re.fullmatch(r"[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}", v, re.I):
+            return v
+    return ""
+
+
 def scan(chain: str, days: int) -> tuple[list[Cinema], list[Screening]]:
     cfg = CHAINS[chain]
     s = http.session()
@@ -50,7 +59,7 @@ def scan(chain: str, days: int) -> tuple[list[Cinema], list[Screening]]:
                 id=f"{chain}:{site['id']}",
                 chain=chain,
                 name=name,
-                city=addr.get("city") or "",
+                city=_city(addr),
                 lat=loc.get("latitude"),
                 lon=loc.get("longitude"),
                 url=cfg["cinema_url"].format(slug=_slug(name)),
