@@ -1,0 +1,32 @@
+# CinAlerts settings. Find cinema IDs on the website (tick cinemas, then "Copy config")
+# or with:  python -m cinalerts cinemas <search>
+
+# A film counts as a re-run if it was first released at least this many years ago.
+min_years_old = 1
+
+# How many days of listings to scan.
+days_ahead = 14
+
+# Cinemas you want push alerts for, as "chain:id".
+cinemas = []
+
+# Only alert for these genres (empty = all). Options: Action, Adventure, Animation, Comedy,
+# Crime, Documentary, Drama, Family, Fantasy, History, Horror, Music, Mystery, Romance,
+# Sci-Fi, Thriller, War, Western
+genres = []
+
+# Ignore listings whose title matches any of these (case-insensitive regexes), on the site and in alerts.
+# The defaults skip event cinema (opera, ballet, theatre), which can't be matched to films reliably.
+exclude_titles = [
+  "NT Live", "National Theatre", "Met Opera", "Opera", "Ballet", "Bolshoi", "RSC Live", "Royal Shakespeare",
+  "Andr[eé] Rieu", "Live from", "Encore",
+]
+
+# Chains to scan: odeon, curzon, cineworld, everyman, vue, picturehouse
+chains = ["odeon", "curzon", "cineworld", "everyman", "vue", "picturehouse"]
+
+# Where the website is published (used for links in notifications).
+site_url = "https://pinderoli.github.io/CinAlerts"
+
+# Alert again for the same film at the same cinema if it disappears for this long and comes back.
+realert_after_days = 30

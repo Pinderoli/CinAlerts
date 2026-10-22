@@ -1,0 +1,233 @@
+:root {
+  --bg: #0e0c0b;
+  --panel: #1a1614;
+  --panel-2: #241e1b;
+  --line: #3a302a;
+  --text: #f3ece4;
+  --muted: #a8998b;
+  --gold: #f2b544;
+  --red: #d2453a;
+  --radius: 10px;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 Inter, system-ui, sans-serif;
+}
+
+a { color: var(--gold); }
+
+.marquee {
+  padding: 32px 16px 20px;
+  text-align: center;
+  background:
+    radial-gradient(circle at 50% -40%, rgba(242, 181, 68, .22), transparent 60%),
+    var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+.marquee h1 {
+  margin: 0;
+  font: 400 clamp(48px, 11vw, 88px)/0.9 "Bebas Neue", Impact, sans-serif;
+  letter-spacing: .04em;
+}
+
+.marquee h1 span { color: var(--gold); }
+.updated { margin: 10px 0 0; color: var(--muted); font-size: 13px; }
+
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: grid;
+  gap: 10px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 16px;
+  background: rgba(14, 12, 11, .94);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line);
+}
+
+input[type=search], select {
+  width: 100%;
+  padding: 10px 12px;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font: inherit;
+}
+
+input[type=search]:focus, select:focus { outline: 2px solid var(--gold); outline-offset: -1px; }
+
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.select { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 14px; }
+.select select { width: auto; padding: 6px 10px; }
+.toggle { display: flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; }
+.toggle input { accent-color: var(--gold); width: 16px; height: 16px; }
+
+.button {
+  padding: 7px 14px;
+  color: #1a1208;
+  background: var(--gold);
+  border: 0;
+  border-radius: 999px;
+  font: 600 14px Inter, sans-serif;
+  cursor: pointer;
+}
+
+.button.ghost { color: var(--text); background: transparent; border: 1px solid var(--line); }
+#pick { margin-left: auto; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+
+.chip {
+  padding: 4px 11px;
+  color: var(--muted);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font: 500 13px Inter, sans-serif;
+  cursor: pointer;
+}
+
+.chip[aria-pressed=true] { color: #1a1208; background: var(--gold); border-color: var(--gold); }
+.chip.down { text-decoration: line-through; opacity: .55; }
+
+.summary { max-width: 1100px; margin: 16px auto 0; padding: 0 16px; color: var(--muted); font-size: 14px; }
+
+#films {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 500px), 1fr));
+  gap: 14px;
+  max-width: 1100px;
+  margin: 12px auto 40px;
+  padding: 0 16px;
+}
+
+.film {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 14px;
+  padding: 14px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  scroll-margin-top: 200px;
+}
+
+.film.flash { animation: flash 2s ease-out; }
+@keyframes flash { from { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(242, 181, 68, .4); } }
+
+.poster {
+  width: 92px;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  background: var(--panel-2);
+  border-radius: 6px;
+}
+
+.film h3 { margin: 0; font: 400 26px/1 "Bebas Neue", Impact, sans-serif; letter-spacing: .03em; }
+.film h3 a { color: inherit; text-decoration: none; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0 10px; }
+
+.tag {
+  padding: 1px 8px;
+  color: var(--muted);
+  background: var(--panel-2);
+  border-radius: 999px;
+  font-size: 12px;
+}
+
+.tag.age { color: #1a1208; background: var(--gold); font-weight: 600; }
+
+.venues { display: grid; gap: 8px; }
+.venue { font-size: 13px; }
+.venue-name { color: var(--muted); }
+.venue-name b { color: var(--text); font-weight: 600; }
+.times { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 3px; }
+
+.times a {
+  padding: 2px 7px;
+  color: var(--text);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-size: 12px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.times a:hover { border-color: var(--gold); }
+
+.more {
+  justify-self: start;
+  padding: 0;
+  color: var(--gold);
+  background: none;
+  border: 0;
+  font: 500 13px Inter, sans-serif;
+  cursor: pointer;
+}
+
+.empty { grid-column: 1 / -1; padding: 40px 0; color: var(--muted); text-align: center; }
+
+dialog {
+  width: min(560px, calc(100vw - 32px));
+  max-height: min(720px, calc(100vh - 32px));
+  padding: 0;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+
+dialog::backdrop { background: rgba(0, 0, 0, .7); }
+
+.picker { display: flex; flex-direction: column; gap: 10px; max-height: inherit; padding: 16px; }
+.picker header, .picker footer { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.picker h2 { margin: 0; font: 400 30px/1 "Bebas Neue", Impact, sans-serif; letter-spacing: .03em; }
+.close { color: var(--muted); background: none; border: 0; font-size: 18px; cursor: pointer; }
+
+.cinema-list { flex: 1; min-height: 200px; overflow-y: auto; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.cinema-list h4 { position: sticky; top: 0; margin: 0; padding: 8px 2px 4px; color: var(--gold); background: var(--panel); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; }
+.cinema-list label { display: flex; gap: 8px; align-items: center; padding: 5px 2px; font-size: 14px; cursor: pointer; }
+.cinema-list label small { color: var(--muted); }
+.cinema-list input { accent-color: var(--gold); }
+
+#config-out {
+  margin: 0;
+  padding: 10px;
+  overflow-x: auto;
+  color: var(--muted);
+  background: var(--bg);
+  border-radius: 8px;
+  font-size: 12px;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.foot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+  color: var(--muted);
+  font-size: 12px;
+  border-top: 1px solid var(--line);
+}
+
+@media (max-width: 520px) {
+  .film { grid-template-columns: 64px 1fr; gap: 10px; }
+  .poster { width: 64px; }
+  #pick { margin-left: 0; }
+}

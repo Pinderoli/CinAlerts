@@ -1,0 +1,42 @@
+name: Scan cinemas
+
+on:
+  schedule:
+    - cron: "0 7 * * *" # daily, 07:00 UTC (8am UK summer time)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan, update site data, send alerts
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TZ: Europe/London
+        run: python -m cinalerts run
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data data
+          git diff --cached --quiet && exit 0
+          git commit -m "Update listings $(date -u +%Y-%m-%d)"
+          git push

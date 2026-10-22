@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CinAlerts</title>
+  <meta name="description" content="Re-runs and classic films showing in UK cinemas.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎞️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="marquee">
+    <h1>Cin<span>Alerts</span></h1>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Search films" autocomplete="off">
+    <div class="row">
+      <label class="select">Released over
+        <select id="age">
+          <option value="1">1 year ago</option>
+          <option value="5">5 years ago</option>
+          <option value="10">10 years ago</option>
+          <option value="20">20 years ago</option>
+          <option value="40">40 years ago</option>
+        </select>
+      </label>
+      <label class="toggle"><input type="checkbox" id="mine"> My cinemas only</label>
+      <button id="pick" class="button">Choose cinemas <span id="pick-count"></span></button>
+    </div>
+    <div class="chips" id="chains"></div>
+    <div class="chips" id="genres"></div>
+  </section>
+
+  <p class="summary" id="summary"></p>
+  <main id="films"></main>
+
+  <dialog id="picker">
+    <form method="dialog" class="picker">
+      <header>
+        <h2>My cinemas</h2>
+        <button class="close" value="close" aria-label="Close">✕</button>
+      </header>
+      <input id="cinema-search" type="search" placeholder="Search by cinema or town" autocomplete="off">
+      <div id="cinema-list" class="cinema-list"></div>
+      <footer>
+        <button type="button" id="clear" class="button ghost">Clear</button>
+        <button type="button" id="copy" class="button">Copy for config.toml</button>
+      </footer>
+      <pre id="config-out" hidden></pre>
+    </form>
+  </dialog>
+
+  <footer class="foot">
+    <span id="status"></span>
+    <a href="https://github.com/Pinderoli/CinAlerts">GitHub</a>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
