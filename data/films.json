@@ -1018,6 +1018,13 @@
   "title": "Everybody Digs Bill Evans",
   "year": 2026
  },
+ "exorcist||": {
+  "checked": "2026-10-24T12:57:01",
+  "imdb": "tt0070047",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Exorcist",
+  "year": 1973
+ },
  "extra geography|2026|clear,duggan,manners,mckaig": {
   "checked": "2026-10-22T22:26:31",
   "imdb": "tt34798706",
@@ -1853,6 +1860,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMGMzZGI2ZDEtOTVlYy00ZDBiLTgxZjctZTdmNGYxMWI5YmJjXkEyXkFqcGc@._V1_.jpg",
   "title": "(ne)tobuli melagiai",
   "year": 2026
+ },
+ "nff 2026 comedy shorts||": {
+  "checked": "2026-10-24T12:57:02"
  },
  "nightborn||": {
   "checked": "2026-10-22T22:26:31",
@@ -2974,6 +2984,17 @@
    "horror film"
   ],
   "released": "1973-01-01"
+ },
+ "wd|tt0070047": {
+  "genres": [
+   "drama film",
+   "horror film",
+   "mystery film",
+   "thriller film",
+   "satanic film",
+   "supernatural horror film"
+  ],
+  "released": "1973-12-26"
  },
  "wd|tt0071994": {
   "genres": [
