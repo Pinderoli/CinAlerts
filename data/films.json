@@ -84,6 +84,9 @@
   "title": "Ali G: Who Iz I?",
   "year": 2026
  },
+ "all night horror madness 19||": {
+  "checked": "2026-10-25T12:29:47"
+ },
  "all rivers spill their stories to the sea|2026|finlay": {
   "checked": "2026-10-22T22:26:27",
   "imdb": "tt40548469",
@@ -2524,6 +2527,13 @@
   "title": "Room on the Broom",
   "year": 2012
  },
+ "santosh||": {
+  "checked": "2026-10-25T12:29:48",
+  "imdb": "tt30444418",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGEyY2ZmODQtMmFkZC00NzIwLWEwYzYtMjBmNDI4MDA0NTViXkEyXkFqcGc@._V1_.jpg",
+  "title": "Santosh",
+  "year": 2024
+ },
  "scarecrows wedding||": {
   "checked": "2026-10-22T22:26:31",
   "imdb": "tt37442492",
@@ -3910,6 +3920,12 @@
    "thriller film"
   ],
   "released": "2025-09-06"
+ },
+ "wd|tt30444418": {
+  "genres": [
+   "crime film"
+  ],
+  "released": "2024-05-20"
  },
  "wd|tt30458232": {
   "genres": [],
