@@ -1242,6 +1242,13 @@
  "fallen angels by noel coward||": {
   "checked": "2026-10-22T22:26:31"
  },
+ "fallow few||": {
+  "checked": "2026-10-27T13:08:18",
+  "imdb": "tt32448248",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYjA1ZjAtNDc3My00OTIyLTlmNDYtMDAzYzk4OWFlOGQ1XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Fallow Few",
+  "year": 2025
+ },
  "fatherland|2026|diehl,huller,pawlikowski,zischler": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt37304295",
@@ -4417,6 +4424,10 @@
    "lesbian-related film"
   ],
   "released": "2026-06-19"
+ },
+ "wd|tt32448248": {
+  "genres": [],
+  "released": null
  },
  "wd|tt32547691": {
   "genres": [
