@@ -1,6 +1,6 @@
 {
  "2026 classic secret screaming|2026|": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:49"
  },
  "28 days later||": {
   "checked": "2026-10-22T22:26:31",
@@ -27,7 +27,7 @@
   "checked": "2026-10-22T22:26:30"
  },
  "418 telugu|2026|lakkaraju,nadagouda,pagadala,reddy": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:41"
  },
  "418|2026|lakkaraju,nadagouda,pagadala,raj": {
   "checked": "2026-10-22T22:26:28",
@@ -88,7 +88,7 @@
   "year": 2026
  },
  "ahf quadrophenia psychomania double bill||": {
-  "checked": "2026-10-22T22:26:34"
+  "checked": "2026-10-30T09:02:13"
  },
  "ali g who iz i|2026|cohen,robinson": {
   "checked": "2026-10-22T22:26:25",
@@ -150,7 +150,7 @@
   "year": 2026
  },
  "arrietty subbed|2026|holland,ronan,strong,yonebayashi": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:44"
  },
  "arrietty|2026|holland,ronan,strong,yonebayashi": {
   "checked": "2026-10-22T22:26:26"
@@ -329,7 +329,7 @@
   "year": 2025
  },
  "blues at the ritzy||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:08"
  },
  "bohurupi the golden daku|2026|mukherjee,sengupta": {
   "checked": "2026-10-22T22:26:28",
@@ -342,7 +342,7 @@
   "checked": "2026-10-22T22:26:26"
  },
  "bts arirang in sao paulo live viewing|2026|bts,ha": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:43"
  },
  "bts world tour arirang in buenos aires live viewing|2026|bts,ha": {
   "checked": "2026-10-22T22:26:30",
@@ -768,7 +768,7 @@
   "year": 2013
  },
  "cff tricontinental letter to open in case of||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:02"
  },
  "cff truly naked||": {
   "checked": "2026-10-22T22:26:33",
@@ -797,6 +797,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
   "title": "Wild Horse Nine",
   "year": 2026
+ },
+ "cfs resurrection||": {
+  "checked": "2026-10-30T09:02:03",
+  "imdb": "tt29002950",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2ODE0M2QtODUzMS00OGIyLTlmZWItZGMwM2E2MDg5YWUxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Resurrection",
+  "year": 2025
  },
  "cfs sister midnight||": {
   "checked": "2026-10-22T22:26:33",
@@ -832,8 +839,15 @@
   "title": "Chatni",
   "year": 2026
  },
+ "christophers|2026|coel,corden,mckellen,soderbergh": {
+  "checked": "2026-10-30T09:01:50",
+  "imdb": "tt34966562",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Christophers",
+  "year": 2025
+ },
  "cine chat film discussion club guillermo del toro||": {
-  "checked": "2026-10-22T22:26:34"
+  "checked": "2026-10-30T09:02:10"
  },
  "cinecity 2026 all of a sudden||": {
   "checked": "2026-10-26T09:01:26",
@@ -870,11 +884,25 @@
   "title": "I See Buildings Fall Like Lightning",
   "year": 2026
  },
+ "cinecity 2026 ink||": {
+  "checked": "2026-10-30T09:01:59",
+  "imdb": "tt37967547",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJlMDkxODMtODE4MC00YjQ2LTlhZGItOTJiYzcwYTc3NDAzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Ink",
+  "year": 2026
+ },
  "cinecity 2026 minotaur||": {
   "checked": "2026-10-29T09:01:45",
   "imdb": "tt37118301",
   "poster": "https://m.media-amazon.com/images/M/MV5BMjRjMjUwM2QtMzk1OC00MGU4LTlmZTEtNTJjYWIzNDFlMDZhXkEyXkFqcGc@._V1_.jpg",
   "title": "Minotaur",
+  "year": 2026
+ },
+ "cinecity 2026 mouse||": {
+  "checked": "2026-10-30T09:02:01",
+  "imdb": "tt13652154",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzVjNzY1ZDAtZjk5NS00OTRjLTkzYjktZjk3NDMyZmRlNmNjXkEyXkFqcGc@._V1_.jpg",
+  "title": "Mouse",
   "year": 2026
  },
  "cinecity 2026 paper tiger||": {
@@ -962,7 +990,7 @@
   "year": 2026
  },
  "cruise ship down the sinking of the oceanos||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:01:57"
  },
  "cult telugu|2026|iyengar,sen,sharma": {
   "checked": "2026-10-27T09:11:06"
@@ -992,10 +1020,10 @@
   "checked": "2026-10-22T22:26:33"
  },
  "de gaulle part 2 liberte|2026|abkarian,baudry,beale,lesieur": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:40"
  },
  "de gaulle part 2 liberte|2026|abkarian,baudry,schneider,vartolomei": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:51"
  },
  "de gaulle resistance|2026|abkarian,baudry,beale,lesieur": {
   "checked": "2026-10-22T22:26:27",
@@ -1012,7 +1040,7 @@
   "year": 2025
  },
  "deadline mandarin|2026|chow,lin,liu,wong": {
-  "checked": "2026-10-22T22:26:25"
+  "checked": "2026-10-30T09:01:39"
  },
  "deadline|2026|chow,diyang,lin,sang": {
   "checked": "2026-10-22T22:26:28",
@@ -1098,19 +1126,19 @@
   "year": 2026
  },
  "disney junior cinema club 2026|2026|anselmo,bayer,iwan": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:38"
  },
  "disney junior cinema club 2026|2026|anselmo,iwan,robrock": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:52"
  },
  "disney junior cinema club 2026|2026|directors": {
   "checked": "2026-10-22T22:26:28"
  },
  "disney junior cinema club 2026||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:02:03"
  },
  "disney junior cinema club|2026|": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:48"
  },
  "dog friendly addams family values||": {
   "checked": "2026-10-22T22:26:33",
@@ -1120,7 +1148,7 @@
   "year": 1993
  },
  "dog friendly ghosts possession of button house||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:01:58"
  },
  "dog friendly scooby doo||": {
   "checked": "2026-10-22T22:26:33",
@@ -1186,10 +1214,10 @@
   "year": 2018
  },
  "drink and dine nightmare on elm street 4||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:05"
  },
  "drishyam the conclusion hindi|2026|devgn,pathak,saran,tabu": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:54"
  },
  "drishyam the conclusion|2026|devgn,pathak,saran,tabu": {
   "checked": "2026-10-22T22:26:28",
@@ -1209,10 +1237,10 @@
   "checked": "2026-10-27T09:11:27"
  },
  "dub me always vinyl reggae||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:09"
  },
  "dukes after dark rocky horror party||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:02:00"
  },
  "eh din roz ni aune punjabi|2026|achhra,mann,sekhon": {
   "checked": "2026-10-22T22:26:30"
@@ -1244,6 +1272,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNjU2ODNmZWQtZDY3NC00M2NkLThmMmUtZTBjM2QxODgzYzIzXkEyXkFqcGc@._V1_.jpg",
   "title": "ENHYPEN World Tour 'Blood Saga'",
   "year": 2026
+ },
+ "epsom picturehouse film quiz||": {
+  "checked": "2026-10-30T09:02:04"
  },
  "everest the other side|2026|chin,morrison,nelson": {
   "checked": "2026-10-27T09:11:29",
@@ -1304,7 +1335,7 @@
   "checked": "2026-10-22T22:26:26"
  },
  "fallen angels by noel coward||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:02:14"
  },
  "fallow few||": {
   "checked": "2026-10-27T13:08:18",
@@ -1390,7 +1421,7 @@
   "checked": "2026-10-25T09:22:17"
  },
  "gardener the buddhist and the spy|2026|bustnes": {
-  "checked": "2026-10-22T22:26:27"
+  "checked": "2026-10-30T09:01:44"
  },
  "gentle monster|2026|deneuve,kreutzer,rupp,seydoux": {
   "checked": "2026-10-24T09:19:12",
@@ -1898,10 +1929,10 @@
   "year": 2026
  },
  "jailer 2 tamil|2026|babu,dilipkumar,jose,rajinikanth": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:53"
  },
  "jailer 2 tamil|2026|dilipkumar,krishnan,mirnaa,rajinikanth": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:39"
  },
  "jailer 2 telugu|2026|dilipkumar,krishnan,mirnaa,rajinikanth": {
   "checked": "2026-10-22T22:26:26"
@@ -2010,7 +2041,7 @@
   "checked": "2026-10-22T22:26:26"
  },
  "kung fu soccer mandarin with en ch subtitles|2026|chow,dilmurat,yang,zhang": {
-  "checked": "2026-10-22T22:26:25"
+  "checked": "2026-10-30T09:01:41"
  },
  "kung fu soccer mandarin|2026|chow,dilmurat,zhang": {
   "checked": "2026-10-22T22:26:30"
@@ -2061,7 +2092,7 @@
   "year": 2026
  },
  "lalka polish|2026|dorocinski,kawalski,kondrat,urzedowska": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:55"
  },
  "lalka|2026|dorocinski,kawalski,kondrat,urzedowska": {
   "checked": "2026-10-22T22:26:28",
@@ -2133,7 +2164,7 @@
   "year": 2003
  },
  "mad world donnie darko||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:05"
  },
  "making marie antoinette|2026|coppola": {
   "checked": "2026-10-22T22:26:27",
@@ -2150,16 +2181,16 @@
   "year": 2026
  },
  "manon|2026|ballet,kessels": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:43"
  },
  "manon|2026|bracewell,macmillan,naghdi": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:51"
  },
  "matloob aelian|2026|gharieb,khater,sabri,tony": {
   "checked": "2026-10-22T22:26:26"
  },
  "meeting ourselves in film workshop||": {
-  "checked": "2026-10-22T22:26:34"
+  "checked": "2026-10-30T09:02:11"
  },
  "memorial liquidation|2026|krugovykh": {
   "checked": "2026-10-22T22:26:27"
@@ -2248,10 +2279,10 @@
   "year": 2001
  },
  "mystery screening|2026|": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:53"
  },
  "nayyi navelli hindi|2026|gautam,mohan,rajwar,vashisht": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:54"
  },
  "nayyi navelli|2026|gautam,kothare,mohan,rajwar": {
   "checked": "2026-10-22T22:26:28"
@@ -2311,6 +2342,9 @@
  "nff 2026 shorts the mix tape vol 1||": {
   "checked": "2026-10-25T09:31:55"
  },
+ "nff 2026 women in film shorts||": {
+  "checked": "2026-10-30T09:02:12"
+ },
  "nightborn||": {
   "checked": "2026-10-22T22:26:31",
   "imdb": "tt34383465",
@@ -2326,7 +2360,7 @@
   "year": 2026
  },
  "north sea nature untamed|2026|verkerk": {
-  "checked": "2026-10-22T22:26:27"
+  "checked": "2026-10-30T09:01:45"
  },
  "nosferatu|2026|depp,eggers,hoult,skarsgard": {
   "checked": "2026-10-22T22:26:30",
@@ -2468,7 +2502,7 @@
   "year": 1975
  },
  "oxford tales||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:13"
  },
  "ozzy and black sabbath back to the beginning|2026|butler,iommi,osbourne,pearce": {
   "checked": "2026-10-23T09:02:15",
@@ -2698,7 +2732,7 @@
   "year": 2026
  },
  "prahaar hindi|2026|arun,gabbi,rao,sharma": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:56"
  },
  "prahaar|2026|ahlawat,arun,gabbi,rao": {
   "checked": "2026-10-22T22:26:28"
@@ -2813,6 +2847,13 @@
  "raise the red lantern 1991||": {
   "checked": "2026-10-26T09:01:29"
  },
+ "raise the red lantern|2026|gong,he,ma,zhang": {
+  "checked": "2026-10-30T09:01:46",
+  "imdb": "tt0101640",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_.jpg",
+  "title": "Raise the Red Lantern",
+  "year": 1991
+ },
  "ramayana english|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-10-24T09:19:11"
  },
@@ -2882,7 +2923,7 @@
   "year": 2026
  },
  "ranabaali telugu|2026|deverakonda,mandanna,sankrityan,vosloo": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:57"
  },
  "ranabaali|2026|deverakonda,garrett,sankrityan,vosloo": {
   "checked": "2026-10-22T22:26:26",
@@ -2942,6 +2983,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOTg2YzY5ZGYtNDk1My00N2Q2LWFhN2YtZWU5YTkzODIyZGRmXkEyXkFqcGc@._V1_.jpg",
   "title": "The Rocky Horror Picture Show",
   "year": 1975
+ },
+ "rocky|2026|avildsen,shire,stallone,weathers": {
+  "checked": "2026-10-30T09:01:53",
+  "imdb": "tt0075148",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg",
+  "title": "Rocky",
+  "year": 1976
  },
  "rocky|2026|avildsen,shire,stallone,young": {
   "checked": "2026-10-22T22:26:28",
@@ -3041,7 +3089,7 @@
   "checked": "2026-10-23T09:02:11"
  },
  "secret screening 2nd nov|2026|": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:49"
  },
  "see if they drown halloween fundraising screening||": {
   "checked": "2026-10-22T22:26:33"
@@ -3140,6 +3188,13 @@
   "title": "Skyfall",
   "year": 2012
  },
+ "sla 2026 a silent voice||": {
+  "checked": "2026-10-30T09:02:07",
+  "imdb": "tt8207132",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVlNjBhMDAtYWI4OS00Yzk2LTlhMTItODlhNWY1NjgwNDQ0XkEyXkFqcGc@._V1_.jpg",
+  "title": "A Silent Voice",
+  "year": 2017
+ },
  "social reckoning|2026|madison,magnussen,mosaku,sorkin": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt37510326",
@@ -3167,6 +3222,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BYjdlZTgzZDUtMmVjYy00M2EyLWFlNGMtNjVhYjM2ODNmZjEzXkEyXkFqcGc@._V1_.jpg",
   "title": "The Social Reckoning",
   "year": 2026
+ },
+ "soul at the ritzy||": {
+  "checked": "2026-10-30T09:02:10"
  },
  "soul patrol|2026|harper": {
   "checked": "2026-10-22T22:26:27",
@@ -3272,7 +3330,7 @@
   "checked": "2026-10-29T09:01:40"
  },
  "tabby mctat room on the broom|2025|directors": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-10-30T09:01:51"
  },
  "tabby mctat the room on the broom|2026|": {
   "checked": "2026-10-27T09:11:05",
@@ -3334,7 +3392,7 @@
   "year": 1988
  },
  "titans malayalam|2026|jayasurya,jean,joy,vinayakan": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:56"
  },
  "titans|2026|achari,jean,joy,krishna": {
   "checked": "2026-10-22T22:26:26",
@@ -3379,7 +3437,7 @@
   "year": 2026
  },
  "tours of the duke of york s||": {
-  "checked": "2026-10-22T22:26:31"
+  "checked": "2026-10-30T09:02:01"
  },
  "traitors finale watch party||": {
   "checked": "2026-10-27T09:13:36"
@@ -3399,7 +3457,7 @@
   "year": 2026
  },
  "udta teer hindi|2026|bose,kaushik,khan,khurrana": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:55"
  },
  "udta teer|2026|bose,kapoor,kaushik,pilgaonkar": {
   "checked": "2026-10-22T22:26:26",
@@ -3422,6 +3480,13 @@
   "title": "Paper Tiger",
   "year": 2026
  },
+ "ukjff 2026 shana||": {
+  "checked": "2026-10-30T09:02:08",
+  "imdb": "tt39172310",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJjNDE5YTAtMTA1Yy00NTlhLThhMjAtMDhiNDJkNzlkMWI3XkEyXkFqcGc@._V1_.jpg",
+  "title": "Shana",
+  "year": 2026
+ },
  "ukjff 2026 the sea||": {
   "checked": "2026-10-25T09:27:58"
  },
@@ -3439,6 +3504,9 @@
   "title": "Bookends",
   "year": 2026
  },
+ "ukjff centrepiece gala the wedding entertainer|2026|dar": {
+  "checked": "2026-10-30T09:01:47"
+ },
  "ukjff tell me everything|2026|rosenthal": {
   "checked": "2026-10-26T09:01:22",
   "imdb": "tt39149971",
@@ -3454,7 +3522,7 @@
   "year": 1966
  },
  "university of chester graduation november 2026||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:04"
  },
  "uprising|2026|bell,dillane,garfield,greengrass": {
   "checked": "2026-10-22T22:26:27",
@@ -3741,6 +3809,13 @@
    "black comedy film"
   ],
   "released": "1988-11-04"
+ },
+ "wd|tt0101640": {
+  "genres": [
+   "historical film",
+   "romantic drama film"
+  ],
+  "released": "1991-09-10"
  },
  "wd|tt0103874": {
   "genres": [
@@ -4493,6 +4568,13 @@
   ],
   "released": "2026-01-01"
  },
+ "wd|tt29002950": {
+  "genres": [
+   "science fiction film",
+   "detective film"
+  ],
+  "released": "2025-05-22"
+ },
  "wd|tt29122074": {
   "genres": [
    "drama film"
@@ -4814,6 +4896,12 @@
   ],
   "released": "2026-10-13"
  },
+ "wd|tt34966562": {
+  "genres": [
+   "black comedy film"
+  ],
+  "released": "2025-01-01"
+ },
  "wd|tt35298123": {
   "genres": [
    "drama film",
@@ -5006,6 +5094,13 @@
   ],
   "released": "2026-08-07"
  },
+ "wd|tt37967547": {
+  "genres": [
+   "drama film",
+   "biographical film"
+  ],
+  "released": "2026-09-02"
+ },
  "wd|tt38063160": {
   "genres": [],
   "released": null
@@ -5134,6 +5229,12 @@
  "wd|tt39150922": {
   "genres": [],
   "released": null
+ },
+ "wd|tt39172310": {
+  "genres": [
+   "comedy film"
+  ],
+  "released": "2026-01-01"
  },
  "wd|tt39239818": {
   "genres": [],
@@ -5437,6 +5538,10 @@
   ],
   "released": "2018-01-21"
  },
+ "wd|tt8207132": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt8613070": {
   "genres": [
    "drama film",
@@ -5462,13 +5567,20 @@
   "checked": "2026-10-22T22:26:28"
  },
  "we re going on a bear hunt the tiger who came to tea|2026|cumberbatch,harrison,oyelowo,walliams": {
-  "checked": "2026-10-22T22:26:30"
+  "checked": "2026-10-30T09:01:52"
  },
  "we re going on a bear hunt the tiger who came to tea||": {
-  "checked": "2026-10-22T22:26:33"
+  "checked": "2026-10-30T09:02:04"
  },
  "we re going on a bear hunt tiger who came to|2026|ferris,greig,harrison,walliams": {
-  "checked": "2026-10-22T22:26:26"
+  "checked": "2026-10-30T09:01:42"
+ },
+ "we the hated|2026|felgate": {
+  "checked": "2026-10-30T09:01:46",
+  "imdb": "tt42204071",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE1ZGY1MDQtOWNlYS00ZDgyLTlkMjQtMDNlMmIwZTMzNjRkXkEyXkFqcGc@._V1_.jpg",
+  "title": "We, the Hated",
+  "year": 2026
  },
  "weight|2026|crowe,hawke,jones,mckinley": {
   "checked": "2026-10-22T22:26:31",
