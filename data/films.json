@@ -1704,7 +1704,7 @@
   "year": 2026
  },
  "heated rivalry episodes 1 and 2||": {
-  "checked": "2026-10-24T09:35:47"
+  "checked": "2026-10-31T13:33:25"
  },
  "heated rivalry episodes 3 and 4||": {
   "checked": "2026-10-25T09:31:58"
@@ -2375,7 +2375,7 @@
   "year": 2026
  },
  "nff 2026 comedy shorts||": {
-  "checked": "2026-10-24T12:57:02"
+  "checked": "2026-10-31T13:33:23"
  },
  "nff 2026 documentary shorts||": {
   "checked": "2026-10-29T09:01:51"
@@ -3271,7 +3271,11 @@
   "year": 2026
  },
  "shaun the sheep the beast of mossy bottom|2026|cox,fletcher,sosanya,whitehouse": {
-  "checked": "2026-10-24T09:35:40"
+  "checked": "2026-10-31T13:33:21",
+  "imdb": "tt36841161",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NWIxODktNjcwOC00MjNjLWE1ZDctNWNmODkzYzc2Y2RhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "year": 2026
  },
  "shaun the sheep the beast of mossy bottom||": {
   "checked": "2026-10-22T22:26:31",
@@ -3535,6 +3539,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_.jpg",
   "title": "Tenzing",
   "year": 2026
+ },
+ "terminator 2 judgment day|2026|cameron,furlong,hamilton,schwarzenegger": {
+  "checked": "2026-10-31T13:33:22",
+  "imdb": "tt0103064",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg",
+  "title": "Terminator 2: Judgment Day",
+  "year": 1991
  },
  "thaapi punjabi|2026|bajwa,chahal,singh,warring": {
   "checked": "2026-10-22T22:26:30"
@@ -4001,6 +4012,27 @@
    "romantic drama film"
   ],
   "released": "1991-09-10"
+ },
+ "wd|tt0103064": {
+  "genres": [
+   "drama film",
+   "comedy film",
+   "adventure film",
+   "action film",
+   "science fiction film",
+   "techno-thriller",
+   "cyberpunk",
+   "black comedy film",
+   "time-travel film",
+   "suspense film",
+   "chase film",
+   "dystopian film",
+   "science fiction action film",
+   "post-apocalyptic film",
+   "girls with guns",
+   "thriller film"
+  ],
+  "released": "1991-01-01"
  },
  "wd|tt0103874": {
   "genres": [
