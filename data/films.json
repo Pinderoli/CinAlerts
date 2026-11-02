@@ -111,6 +111,9 @@
   "title": "Ali G: Who Iz I?",
   "year": 2026
  },
+ "ali plumbs untitled film quiz project||": {
+  "checked": "2026-11-02T09:01:26"
+ },
  "all night horror madness 19||": {
   "checked": "2026-11-01T14:14:07"
  },
@@ -127,6 +130,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMTFmODIxMDMtNDJjNC00OTc3LWI1MTktZWEzZjA3OTY2YWVjXkEyXkFqcGc@._V1_.jpg",
   "title": "All Rivers Spill Their Stories to the Sea",
   "year": 2026
+ },
+ "almost famous|2026|crowe,crudup,fugit,hudson": {
+  "checked": "2026-11-02T09:01:17",
+  "imdb": "tt0181875",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGFmNDQzOTItOGZkNS00NjFkLWE4MjQtNmRjMjNlMjg3YzdiXkEyXkFqcGc@._V1_.jpg",
+  "title": "Almost Famous",
+  "year": 2000
  },
  "animol|2026|baliuk,graham,nyuot,walters": {
   "checked": "2026-10-27T09:11:08",
@@ -874,6 +884,13 @@
  "cine chat film discussion club guillermo del toro||": {
   "checked": "2026-10-30T09:02:10"
  },
+ "cinecity 2026 a long winter||": {
+  "checked": "2026-11-02T09:01:20",
+  "imdb": "tt38220998",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTBiMzZmNTMtMTg3MC00MjI1LWExMWUtMzFmZWVlMDZhNzFlXkEyXkFqcGc@._V1_.jpg",
+  "title": "A Long Winter",
+  "year": 2026
+ },
  "cinecity 2026 all of a sudden||": {
   "checked": "2026-10-26T09:01:26",
   "imdb": "tt36834996",
@@ -907,6 +924,13 @@
   "imdb": "tt39328391",
   "poster": "https://m.media-amazon.com/images/M/MV5BODZiNjNmNWMtNTIxNy00OTcwLThjYjQtMTQ1ZmVmZTgyODU5XkEyXkFqcGc@._V1_.jpg",
   "title": "Coward",
+  "year": 2026
+ },
+ "cinecity 2026 elsinore||": {
+  "checked": "2026-11-02T09:01:18",
+  "imdb": "tt37363222",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDczMTRhNTItOTlmOC00MmE2LWEzODMtNGViMDE3NWE1NDY0XkEyXkFqcGc@._V1_.jpg",
+  "title": "Elsinore",
   "year": 2026
  },
  "cinecity 2026 i see buildings fall like lightning||": {
@@ -1245,6 +1269,13 @@
   "title": "Donnie Darko",
   "year": 2001
  },
+ "double indemnity||": {
+  "checked": "2026-11-02T09:01:17",
+  "imdb": "tt0036775",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Double Indemnity",
+  "year": 1944
+ },
  "dracula|2026|cushing,fisher,gough,lee": {
   "checked": "2026-10-22T22:26:28",
   "imdb": "tt0103874",
@@ -1523,7 +1554,11 @@
   "year": 1996
  },
  "fugitive|1993|davis,ford,jones,ward": {
-  "checked": "2026-10-25T09:22:17"
+  "checked": "2026-11-02T09:01:16",
+  "imdb": "tt0106977",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Fugitive",
+  "year": 1993
  },
  "gardener the buddhist and the spy|2026|bustnes": {
   "checked": "2026-10-30T09:01:44"
@@ -1788,7 +1823,7 @@
   "checked": "2026-10-25T09:27:55"
  },
  "heated rivalry season 01 epi 05 and 06||nelisse,storrie,tierney,williams": {
-  "checked": "2026-10-25T09:27:55"
+  "checked": "2026-11-02T09:01:17"
  },
  "heated rivalry season one all dayer||": {
   "checked": "2026-10-26T09:01:24"
@@ -2270,6 +2305,13 @@
  "live music night||": {
   "checked": "2026-10-30T13:59:36"
  },
+ "long winter||": {
+  "checked": "2026-11-02T09:01:20",
+  "imdb": "tt38220998",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTBiMzZmNTMtMTg3MC00MjI1LWExMWUtMzFmZWVlMDZhNzFlXkEyXkFqcGc@._V1_.jpg",
+  "title": "A Long Winter",
+  "year": 2026
+ },
  "lost children of tuam|2026|bennett,berry,dolan,mcelhinney": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt37677758",
@@ -2370,6 +2412,13 @@
   "imdb": "tt32890033",
   "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_.jpg",
   "title": "Minions & Monsters",
+  "year": 2026
+ },
+ "minotaur|2026|koudrine,lebedeva,mazurov,zviaguintsev": {
+  "checked": "2026-11-02T09:01:15",
+  "imdb": "tt37118301",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRjMjUwM2QtMzk1OC00MGU4LTlmZTEtNTJjYWIzNDFlMDZhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Minotaur",
   "year": 2026
  },
  "miss jobson||": {
@@ -2495,6 +2544,12 @@
   "title": "LGBTQ",
   "year": 2024
  },
+ "nff 2026 shorts award winners showcase||": {
+  "checked": "2026-11-02T09:01:28"
+ },
+ "nff 2026 shorts british mix||": {
+  "checked": "2026-11-02T09:01:29"
+ },
  "nff 2026 shorts for the planet||": {
   "checked": "2026-10-31T09:16:56"
  },
@@ -2523,6 +2578,9 @@
  },
  "nff 2026 shorts the mix tape vol 2||": {
   "checked": "2026-11-01T09:20:47"
+ },
+ "nff 2026 shorts the mix tape vol 3||": {
+  "checked": "2026-11-02T09:01:30"
  },
  "nff 2026 shorts the recollection collection||": {
   "checked": "2026-10-31T09:16:53"
@@ -3178,6 +3236,9 @@
  "rbo live 2026 27 manon||": {
   "checked": "2026-10-22T22:26:31"
  },
+ "relaxed shaun the sheep the beast of mossy bottom||": {
+  "checked": "2026-11-02T09:01:21"
+ },
  "resident evil|2026|abrams,cherry,cregger,hauser": {
   "checked": "2026-10-22T22:26:28",
   "imdb": "tt35538033",
@@ -3463,8 +3524,21 @@
   "title": "Ninja Scroll",
   "year": 1993
  },
+ "sla 2026 poupelle of chimney town||": {
+  "checked": "2026-11-02T09:01:23",
+  "imdb": "tt13276012",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNkMjY3NTYtYTM3Zi00MWExLTk2M2QtNDc5NzNiNmFhMDI3XkEyXkFqcGc@._V1_.jpg",
+  "title": "Poupelle of Chimney Town",
+  "year": 2020
+ },
+ "sla 2026 samurai ballerina||": {
+  "checked": "2026-11-02T09:01:24"
+ },
  "sla 2026 the keeper of the camphor tree||": {
   "checked": "2026-11-01T09:20:34"
+ },
+ "sla 2026 to you in the beyond||": {
+  "checked": "2026-11-02T09:01:25"
  },
  "sla 2026 we are aliens||": {
   "checked": "2026-11-01T09:20:43",
@@ -3546,7 +3620,11 @@
   "checked": "2026-10-27T09:11:14"
  },
  "stray kids world tour run it live viewing|2026|chan,entertainment,kids,know": {
-  "checked": "2026-10-25T09:24:55"
+  "checked": "2026-11-02T09:01:16",
+  "imdb": "tt48391060",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM5OTE5NzktMjE5My00MWZmLTk1MzgtNGFkNTk4YjFmMTgxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Stray Kids World Tour 'Run It' Live Viewing",
+  "year": 2026
  },
  "stray kids world tour run it live viewing|2026|entertainment,kids": {
   "checked": "2026-10-25T09:15:44",
@@ -3813,8 +3891,21 @@
  "ukjff centrepiece gala the wedding entertainer|2026|dar": {
   "checked": "2026-10-30T09:01:47"
  },
+ "ukjff closing night gala the last concert|2026|arcady": {
+  "checked": "2026-11-02T09:01:15"
+ },
  "ukjff documentary gala shalom|2026|zvieli": {
   "checked": "2026-11-01T09:20:11"
+ },
+ "ukjff father father|2026|wizenfeld": {
+  "checked": "2026-11-02T09:01:13"
+ },
+ "ukjff noga|2026|bergmann": {
+  "checked": "2026-11-02T09:01:14",
+  "imdb": "tt41955949",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMxMjE0NWItYjg4OC00MDg3LTg0YWUtZmEzNDNmMTA2ZGUwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Noga",
+  "year": 2026
  },
  "ukjff tell me everything|2026|rosenthal": {
   "checked": "2026-10-26T09:01:22",
@@ -3822,6 +3913,16 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BODhkMzZhNTUtOTY4NS00NzhkLTk2MzgtYzkzZGY5ZjY3NDI4XkEyXkFqcGc@._V1_.jpg",
   "title": "Tell Me Everything",
   "year": 2026
+ },
+ "ukjff the righteous road trip|2026|roth": {
+  "checked": "2026-11-02T09:01:12"
+ },
+ "ukjff we met at grossinger s|2026|eiselt": {
+  "checked": "2026-11-02T09:01:11",
+  "imdb": "tt37656916",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRjZDY3YWItOWMyYS00Y2JjLTk1ZDItNTFiYzc5M2U3OTM0XkEyXkFqcGc@._V1_.jpg",
+  "title": "We Met at Grossinger's",
+  "year": 2025
  },
  "university of cambridge the battle of algiers||": {
   "checked": "2026-10-23T09:02:23",
@@ -3917,6 +4018,15 @@
   "title": "Voyage to the Bottom of the Sea",
   "year": 1961
  },
+ "wd|tt0036775": {
+  "genres": [
+   "drama film",
+   "film noir",
+   "crime film",
+   "flashback film"
+  ],
+  "released": "1944-01-01"
+ },
  "wd|tt0039953": {
   "genres": [],
   "released": null
@@ -4004,6 +4114,16 @@
    "supernatural horror film"
   ],
   "released": "1973-12-26"
+ },
+ "wd|tt0070948": {
+  "genres": [
+   "fantasy film",
+   "action film",
+   "science fiction film",
+   "dystopian film",
+   "post-apocalyptic film"
+  ],
+  "released": "1974-02-06"
  },
  "wd|tt0071994": {
   "genres": [
@@ -4234,6 +4354,15 @@
   ],
   "released": "1993-05-28"
  },
+ "wd|tt0106977": {
+  "genres": [
+   "action film",
+   "crime film",
+   "detective film",
+   "thriller film"
+  ],
+  "released": "1993-08-06"
+ },
  "wd|tt0107120": {
   "genres": [
    "fantasy film",
@@ -4344,6 +4473,16 @@
    "thriller film"
   ],
   "released": "1998-01-01"
+ },
+ "wd|tt0181875": {
+  "genres": [
+   "drama film",
+   "comedy film",
+   "musical film",
+   "teen film",
+   "coming-of-age film"
+  ],
+  "released": "2000-09-08"
  },
  "wd|tt0187738": {
   "genres": [
@@ -4668,6 +4807,16 @@
    "adventure film"
   ],
   "released": "2026-01-01"
+ },
+ "wd|tt13276012": {
+  "genres": [
+   "fantasy film",
+   "adventure film",
+   "fantasy anime and manga",
+   "adventure anime and manga",
+   "steampunk film"
+  ],
+  "released": "2020-12-25"
  },
  "wd|tt13609648": {
   "genres": [
@@ -5528,6 +5677,12 @@
   ],
   "released": "2026-05-14"
  },
+ "wd|tt37363222": {
+  "genres": [
+   "biographical film"
+  ],
+  "released": "2026-09-04"
+ },
  "wd|tt37442492": {
   "genres": [],
   "released": null
@@ -5540,6 +5695,10 @@
   "released": "2026-10-08"
  },
  "wd|tt37547793": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt37656916": {
   "genres": [],
   "released": null
  },
@@ -5808,6 +5967,14 @@
    "drama film"
   ],
   "released": "2026-05-01"
+ },
+ "wd|tt41955949": {
+  "genres": [
+   "documentary film",
+   "biographical film",
+   "music documentary film"
+  ],
+  "released": "2026-06-07"
  },
  "wd|tt41973707": {
   "genres": [],
@@ -6288,6 +6455,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_.jpg",
   "title": "Your Mother Your Mother Your Mother",
   "year": 2026
+ },
+ "zardoz||": {
+  "checked": "2026-11-02T09:01:21",
+  "imdb": "tt0070948",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYzRkMmQtZmFlMC00YmZjLWI5NDktNGM4ZmI4YzNkNTcwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Zardoz",
+  "year": 1974
  },
  "zindagi na milegi dobara|2026|akhtar,kaif,roshan": {
   "checked": "2026-10-24T09:28:29"
