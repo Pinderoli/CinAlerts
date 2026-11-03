@@ -407,6 +407,13 @@
   "title": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
   "year": 2026
  },
+ "burning||": {
+  "checked": "2026-11-03T14:59:21",
+  "imdb": "tt7282468",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU3YzgzMTgtOTIwYi00MmNkLWExYWEtZTEyOTAzYzEwM2Q2XkEyXkFqcGc@._V1_.jpg",
+  "title": "Burning",
+  "year": 2018
+ },
  "carmen|2026|gonzalez,jackson,michieletto,thomas": {
   "checked": "2026-10-28T09:01:46"
  },
@@ -1371,6 +1378,13 @@
   "title": "Eh Din Roz Ni Aune",
   "year": 2026
  },
+ "elf|2021|caan,deschanel,favreau,ferrell": {
+  "checked": "2026-11-03T14:59:21",
+  "imdb": "tt0319343",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Elf",
+  "year": 2003
+ },
  "end of oak street|2026|convery,davis,mitchell,stella": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt27165187",
@@ -1883,6 +1897,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZmJjNjgwYzUtMjY2MC00NzJmLTgzOTQtM2E4YzYyMGViM2YzXkEyXkFqcGc@._V1_.jpg",
   "title": "How Deep Is Your Love",
   "year": 2025
+ },
+ "how to rob a bank|2026|davidson,hoult,kravitz,leitch": {
+  "checked": "2026-11-03T14:59:21",
+  "imdb": "tt35866986",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTAxYTItZjUzMC00NDk3LWI0OWMtZjM0YTU3ODUyMDk3XkEyXkFqcGc@._V1_.jpg",
+  "title": "How to Rob a Bank",
+  "year": 2026
  },
  "hunger games the ballad of songbirds and snakes|2023|blyth,dinklage,lawrence,zegler": {
   "checked": "2026-10-29T09:01:41",
@@ -2689,6 +2710,13 @@
  },
  "one in a million|2026|azzam,israa": {
   "checked": "2026-10-23T09:02:14",
+  "imdb": "tt38983842",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY1MjMwM2ItNWRlZi00NTVhLTk1NTYtZDdhODEyNjEyODRkXkEyXkFqcGc@._V1_.jpg",
+  "title": "One in a Million",
+  "year": 2026
+ },
+ "one in a million||": {
+  "checked": "2026-11-03T14:59:22",
   "imdb": "tt38983842",
   "poster": "https://m.media-amazon.com/images/M/MV5BMGY1MjMwM2ItNWRlZi00NTVhLTk1NTYtZDdhODEyNjEyODRkXkEyXkFqcGc@._V1_.jpg",
   "title": "One in a Million",
@@ -3516,6 +3544,13 @@
   "title": "A Silent Voice",
   "year": 2017
  },
+ "sla 2026 akira||": {
+  "checked": "2026-11-03T14:59:21",
+  "imdb": "tt0094625",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlhZGRmZGEtM2ZjNC00MWRmLTk0MDctYzU1NzAzODIxYzEyXkEyXkFqcGc@._V1_.jpg",
+  "title": "Akira",
+  "year": 1988
+ },
  "sla 2026 ghost||": {
   "checked": "2026-10-31T09:16:48",
   "imdb": "tt0099653",
@@ -4241,6 +4276,16 @@
   ],
   "released": "1987-01-01"
  },
+ "wd|tt0094625": {
+  "genres": [
+   "cyberpunk",
+   "action film",
+   "science fiction film",
+   "post-apocalyptic film",
+   "dystopian film"
+  ],
+  "released": "1988-07-16"
+ },
  "wd|tt0094889": {
   "genres": [
    "drama film",
@@ -4628,6 +4673,15 @@
    "Christmas film"
   ],
   "released": "2003-11-06"
+ },
+ "wd|tt0319343": {
+  "genres": [
+   "comedy film",
+   "fantasy film",
+   "family film",
+   "Christmas film"
+  ],
+  "released": "2003-01-01"
  },
  "wd|tt0373074": {
   "genres": [
@@ -5576,6 +5630,12 @@
   ],
   "released": "2026-01-01"
  },
+ "wd|tt35866986": {
+  "genres": [
+   "heist film"
+  ],
+  "released": "2026-11-12"
+ },
  "wd|tt36103784": {
   "genres": [
    "comedy drama"
@@ -6199,6 +6259,13 @@
   ],
   "released": "2022-01-01"
  },
+ "wd|tt7282468": {
+  "genres": [
+   "drama film",
+   "thriller film"
+  ],
+  "released": "2018-05-16"
+ },
  "wd|tt7464188": {
   "genres": [
    "horror film"
@@ -6268,6 +6335,13 @@
  },
  "we the hated|2026|felgate": {
   "checked": "2026-10-30T09:01:46",
+  "imdb": "tt42204071",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE1ZGY1MDQtOWNlYS00ZDgyLTlkMjQtMDNlMmIwZTMzNjRkXkEyXkFqcGc@._V1_.jpg",
+  "title": "We, the Hated",
+  "year": 2026
+ },
+ "we the hated||": {
+  "checked": "2026-11-03T14:59:22",
   "imdb": "tt42204071",
   "poster": "https://m.media-amazon.com/images/M/MV5BMDE1ZGY1MDQtOWNlYS00ZDgyLTlkMjQtMDNlMmIwZTMzNjRkXkEyXkFqcGc@._V1_.jpg",
   "title": "We, the Hated",
