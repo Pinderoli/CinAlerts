@@ -119,7 +119,7 @@
   "year": 2026
  },
  "ali plumbs untitled film quiz project||": {
-  "checked": "2026-11-02T09:01:26"
+  "checked": "2026-11-09T09:02:21"
  },
  "all night horror madness 19||": {
   "checked": "2026-11-01T14:14:07"
@@ -189,8 +189,25 @@
  "arrietty|2026|holland,ronan,strong,yonebayashi": {
   "checked": "2026-10-22T22:26:26"
  },
+ "arthur christmas 15th anniversary|2026|laurie,mcavoy,nighy,smith": {
+  "checked": "2026-11-09T09:02:05"
+ },
+ "arthur christmas|2011|laurie,mcavoy,nighy,smith": {
+  "checked": "2026-11-09T09:02:02",
+  "imdb": "tt1430607",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_.jpg",
+  "title": "Arthur Christmas",
+  "year": 2011
+ },
  "arthur christmas|2026|broadbent,cook,mcavoy,nighy": {
   "checked": "2026-11-07T13:53:25",
+  "imdb": "tt1430607",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_.jpg",
+  "title": "Arthur Christmas",
+  "year": 2011
+ },
+ "arthur christmas|2026|broadbent,cook,palin,serkis": {
+  "checked": "2026-11-09T09:02:10",
   "imdb": "tt1430607",
   "poster": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_.jpg",
   "title": "Arthur Christmas",
@@ -390,6 +407,13 @@
   "title": "Blockhead",
   "year": 2025
  },
+ "blood money|2026|bleibtreu,destani,lluca,sylejmani": {
+  "checked": "2026-11-09T09:01:38",
+  "imdb": "tt39089238",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2E3ZjhhNDAtMTA5Yy00MGU5LTlhZDYtN2Y0ODQ2NmI1MGY3XkEyXkFqcGc@._V1_.jpg",
+  "title": "Blood Money",
+  "year": 2026
+ },
  "blues at the ritzy||": {
   "checked": "2026-10-30T09:02:08"
  },
@@ -419,6 +443,19 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOTlmMTUzY2QtMTIxMy00OTQzLThiZGItZmVjYWM3YThiM2RlXkEyXkFqcGc@._V1_.jpg",
   "title": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
   "year": 2026
+ },
+ "bts world tour arirang in kaohsiung live viewing|2026|bts,ha": {
+  "checked": "2026-11-09T09:02:11",
+  "imdb": "tt50486016",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE0Y2EyNGEtNTZjZC00ZDQ4LThkYjEtZDE2ODhlOTk4NWY3XkEyXkFqcGc@._V1_.jpg",
+  "title": "BTS World Tour 'Arirang' in Kaohsiung: Live Viewing",
+  "year": 2026
+ },
+ "bts world tour arirang in kaohsiung live|2026|bts,ha": {
+  "checked": "2026-11-09T09:01:41"
+ },
+ "bts world tour arirang in kaohsiung|2026|bts,ha,jin,rm": {
+  "checked": "2026-11-09T09:02:05"
  },
  "bts world tour arirang in sao paulo live viewing|2026|bts,ha": {
   "checked": "2026-10-22T22:26:30",
@@ -463,6 +500,27 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMWEzZDkyNzQtYzVkNC00MGU4LTkzZGMtMWU2M2QzMTkxNmZhXkEyXkFqcGc@._V1_.jpg",
   "title": "CatVideoFest 2026",
   "year": 2026
+ },
+ "cbeebies panto 2026 treasure island|2026|": {
+  "checked": "2026-11-09T09:02:03",
+  "imdb": "tt43438831",
+  "poster": null,
+  "title": "Treasure Island",
+  "year": 2027
+ },
+ "cbeebies panto 2026 treasure island|2026|dale,day,fletcher": {
+  "checked": "2026-11-09T09:02:09",
+  "imdb": "tt43438831",
+  "poster": null,
+  "title": "Treasure Island",
+  "year": 2027
+ },
+ "cbeebies panto 2026 treasure island|2026|dale,stephenson,webster": {
+  "checked": "2026-11-09T09:01:41",
+  "imdb": "tt43438831",
+  "poster": null,
+  "title": "Treasure Island",
+  "year": 2027
  },
  "cbeebies panto treasure island||": {
   "checked": "2026-11-08T14:14:47"
@@ -1047,6 +1105,9 @@
   "title": "Violette",
   "year": 2026
  },
+ "city lights film gala|2026|": {
+  "checked": "2026-11-09T09:02:09"
+ },
  "clayface|2026|ackie,dencik,harries,watkins": {
   "checked": "2026-10-22T22:26:30",
   "imdb": "tt34890576",
@@ -1164,7 +1225,7 @@
   "year": 2025
  },
  "deadline mandarin|2026|chow,lin,liu,wong": {
-  "checked": "2026-10-30T09:01:39"
+  "checked": "2026-11-09T09:01:36"
  },
  "deadline|2026|chow,diyang,lin,sang": {
   "checked": "2026-10-22T22:26:28",
@@ -1249,6 +1310,13 @@
   "title": "Digger",
   "year": 2026
  },
+ "disclosure day|2026|blunt,connor,firth,spielberg": {
+  "checked": "2026-11-09T09:02:07",
+  "imdb": "tt15047880",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVkYjkxMzMtZjEzYS00N2ZmLTg1YzQtN2NiNmQwYTkxNzhiXkEyXkFqcGc@._V1_.jpg",
+  "title": "Disclosure Day",
+  "year": 2026
+ },
  "disco malayalam|2026|chemban,jose,mohan,varghese": {
   "checked": "2026-11-04T09:02:28"
  },
@@ -1304,6 +1372,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_.jpg",
   "title": "Scooby-Doo",
   "year": 2002
+ },
+ "dog stars|2026|brolin,elordi,qualley,scott": {
+  "checked": "2026-11-09T09:02:06",
+  "imdb": "tt21285562",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Dog Stars",
+  "year": 2026
  },
  "don t look now||": {
   "checked": "2026-10-22T22:26:34",
@@ -1477,6 +1552,13 @@
   "title": "Elf",
   "year": 2003
  },
+ "elf|2024|caan,favreau,ferrell,newhart": {
+  "checked": "2026-11-09T09:02:08",
+  "imdb": "tt0319343",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Elf",
+  "year": 2003
+ },
  "elf||": {
   "checked": "2026-11-08T14:14:44",
   "imdb": "tt0319343",
@@ -1637,6 +1719,20 @@
   "title": "Flow",
   "year": 2024
  },
+ "focker in law|2026|grande,hamburg,niro,stiller": {
+  "checked": "2026-11-09T09:02:03",
+  "imdb": "tt34966140",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Focker-in-Law",
+  "year": 2026
+ },
+ "focker in law|2026|hamburg,niro,stiller,wilson": {
+  "checked": "2026-11-09T09:01:41",
+  "imdb": "tt34966140",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Focker-in-Law",
+  "year": 2026
+ },
  "forgotten island|2026|chieng,crawford,franco,leon": {
   "checked": "2026-10-22T22:26:25",
   "imdb": "tt36583977",
@@ -1685,6 +1781,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_.jpg",
   "title": "The Fugitive",
   "year": 1993
+ },
+ "funky stuff||": {
+  "checked": "2026-11-09T09:02:20"
  },
  "gardener the buddhist and the spy|2026|bustnes": {
   "checked": "2026-10-30T09:01:44"
@@ -1767,6 +1866,13 @@
  },
  "giant the play|2026|cash,hytner,levey,lithgow": {
   "checked": "2026-11-06T14:57:04",
+  "imdb": "tt42870035",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI4NDdlZjktMTg1Ni00MTFhLWE3ZjMtOTIzMGM1YjY4MmY5XkEyXkFqcGc@._V1_.jpg",
+  "title": "GIANT - The Play",
+  "year": 2026
+ },
+ "giant the play|2026|cash,hytner,levey,stirling": {
+  "checked": "2026-11-09T09:01:40",
   "imdb": "tt42870035",
   "poster": "https://m.media-amazon.com/images/M/MV5BNjI4NDdlZjktMTg1Ni00MTFhLWE3ZjMtOTIzMGM1YjY4MmY5XkEyXkFqcGc@._V1_.jpg",
   "title": "GIANT - The Play",
@@ -1958,16 +2064,19 @@
   "checked": "2026-11-02T16:59:06"
  },
  "heated rivalry season 01 epi 01 and 02|2026|mckenna,storrie,tierney,williams": {
-  "checked": "2026-10-29T09:01:42"
+  "checked": "2026-11-09T09:02:03"
  },
  "heated rivalry season 01 epi 01 and 02||mckenna,storrie,tierney,williams": {
   "checked": "2026-10-24T09:24:21"
  },
  "heated rivalry season 01 epi 03 and 04|2026|arnaud,stewart,tierney,williams": {
-  "checked": "2026-10-29T09:01:43"
+  "checked": "2026-11-09T09:02:04"
  },
  "heated rivalry season 01 epi 03 and 04||arnaud,stewart,tierney,williams": {
   "checked": "2026-10-25T09:27:55"
+ },
+ "heated rivalry season 01 epi 05 and 06|2026|nelisse,storrie,tierney,williams": {
+  "checked": "2026-11-09T09:02:05"
  },
  "heated rivalry season 01 epi 05 and 06||nelisse,storrie,tierney,williams": {
   "checked": "2026-11-02T09:01:17"
@@ -2062,6 +2171,13 @@
  "hunger games sunrise on the reaping sunrise event screening|2026|grace,lawrence,peak,zada": {
   "checked": "2026-11-05T15:22:33"
  },
+ "hunger games sunrise on the reaping|2026|culkin,hawke,lawrence,zada": {
+  "checked": "2026-11-09T09:01:38",
+  "imdb": "tt32558705",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Hunger Games: Sunrise on the Reaping",
+  "year": 2026
+ },
  "hunger games sunrise on the reaping|2026|fiennes,grace,lawrence,plemons": {
   "checked": "2026-11-05T15:22:30",
   "imdb": "tt32558705",
@@ -2071,6 +2187,13 @@
  },
  "hunger games sunrise on the reaping|2026|grace,lawrence,peak,zada": {
   "checked": "2026-11-05T15:22:32",
+  "imdb": "tt32558705",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Hunger Games: Sunrise on the Reaping",
+  "year": 2026
+ },
+ "hunger games sunrise on the reaping|2026|grace,lawrence,plemons,zada": {
+  "checked": "2026-11-09T09:02:09",
   "imdb": "tt32558705",
   "poster": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_.jpg",
   "title": "The Hunger Games: Sunrise on the Reaping",
@@ -2177,6 +2300,9 @@
  "ikenga the last festival|2026|etiko,michael,ogbodo,osu": {
   "checked": "2026-10-22T22:26:26"
  },
+ "imroz da bahar|2026|alper,ergenc,evren,uzerli": {
+  "checked": "2026-11-09T09:01:37"
+ },
  "in bruges||": {
   "checked": "2026-10-31T09:16:46",
   "imdb": "tt0780536",
@@ -2224,6 +2350,13 @@
   "imdb": "tt32393988",
   "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_.jpg",
   "title": "Insidious: Out of the Further",
+  "year": 2026
+ },
+ "instruktorius|2026|jankevicius,klajumas,kucko,kuliunas": {
+  "checked": "2026-11-09T09:01:38",
+  "imdb": "tt46619473",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc0ODlhNWEtM2ZhZS00OWEwLTk1ZmMtYjM5ZTJhMjFlMzc3XkEyXkFqcGc@._V1_.jpg",
+  "title": "Instruktorius",
   "year": 2026
  },
  "instruktorius|2026|jankevicius,klajumas,kuliunas,rudokas": {
@@ -2282,10 +2415,10 @@
   "year": 2026
  },
  "jailer 2 tamil|2026|babu,dilipkumar,jose,rajinikanth": {
-  "checked": "2026-10-30T09:01:53"
+  "checked": "2026-11-09T09:02:12"
  },
  "jailer 2 tamil|2026|dilipkumar,krishnan,mirnaa,rajinikanth": {
-  "checked": "2026-10-30T09:01:39"
+  "checked": "2026-11-09T09:01:36"
  },
  "jailer 2 telugu|2026|dilipkumar,krishnan,mirnaa,rajinikanth": {
   "checked": "2026-10-22T22:26:26"
@@ -2311,10 +2444,14 @@
   "checked": "2026-10-27T09:11:15"
  },
  "jak zyc zeby nie zwariowac|2026|konecki,poplawska,trojan,wypych": {
-  "checked": "2026-11-01T09:20:06"
+  "checked": "2026-11-09T09:01:35",
+  "imdb": "tt50542289",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDlhOTRkNDYtZWEzNC00NmRmLTkzZjEtN2NmODllNjExMzk0XkEyXkFqcGc@._V1_.jpg",
+  "title": "Jak zyc, zeby nie zwariowac",
+  "year": 2026
  },
  "jane schoenbrun public access afterworld|2026|schoenbrun": {
-  "checked": "2026-11-01T09:20:12"
+  "checked": "2026-11-09T09:01:43"
  },
  "josephine|2026|araujo,chan,reeves,tatum": {
   "checked": "2026-10-22T22:26:27",
@@ -2461,6 +2598,9 @@
   "title": "La bola negra",
   "year": 2026
  },
+ "la troisieme nuit||auteuil,bajrami,reinartz": {
+  "checked": "2026-11-09T09:02:07"
+ },
  "lalka polish|2026|dorocinski,kawalski,kondrat,urzedowska": {
   "checked": "2026-10-30T09:01:55"
  },
@@ -2485,11 +2625,70 @@
   "title": "A Fox Under a Pink Moon",
   "year": 2025
  },
+ "ldndocs 2026 american doctor|2026|": {
+  "checked": "2026-11-09T09:01:52",
+  "imdb": "tt39149951",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNjZmNhNWUtZDBkMy00ZGY2LThlYzAtNzE2NDYxZTc1MjhmXkEyXkFqcGc@._V1_.jpg",
+  "title": "American Doctor",
+  "year": 2026
+ },
+ "ldndocs 2026 bleeding hearts|2026|": {
+  "checked": "2026-11-09T09:01:54",
+  "imdb": "tt33502292",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdiNTk2MDYtNjliNy00NDZlLWJkMzUtOWEyNGU5NjEyNzgxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Bleeding Hearts",
+  "year": 2026
+ },
+ "ldndocs 2026 jean michel basquiat|2026|": {
+  "checked": "2026-11-09T09:01:58",
+  "imdb": "tt36957857",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjA0N2EwMWMtMjIyYS00MTU3LTg4MmQtZTZiNjE0NTA3MzM0XkEyXkFqcGc@._V1_.jpg",
+  "title": "Jean-Michel Basquiat",
+  "year": 2026
+ },
+ "ldndocs 2026 khosha the new land|2026|": {
+  "checked": "2026-11-09T09:01:59"
+ },
+ "ldndocs 2026 nuisance bear|2026|": {
+  "checked": "2026-11-09T09:01:50",
+  "imdb": "tt39150922",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjcwMTZkZjEtYTg2MS00ODY2LTkyZjctZmY1OTAxMmYxNGY5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Nuisance Bear",
+  "year": 2026
+ },
  "ldndocs 2026 once upon a time in harlem|2026|": {
   "checked": "2026-11-07T13:53:23",
   "imdb": "tt39163347",
   "poster": "https://m.media-amazon.com/images/M/MV5BMmNkNTQyMTMtMGRlOS00YzdmLWI1MmMtNDRkYWIzNzFkOGQwXkEyXkFqcGc@._V1_.jpg",
   "title": "Once Upon a Time in Harlem",
+  "year": 2026
+ },
+ "ldndocs 2026 rehearsals for a revolution|2026|": {
+  "checked": "2026-11-09T09:02:01",
+  "imdb": "tt41593500",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMzYTY4MjgtNDlhYy00MzliLWE1ZTgtMmFmYTFlMGFmYzI5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Rehearsals for a Revolution",
+  "year": 2026
+ },
+ "ldndocs 2026 the last first winter k2|2026|": {
+  "checked": "2026-11-09T09:01:49",
+  "imdb": "tt39150288",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY5MzE4NDgtNzg1YS00YjBlLTg1ZDYtZGY0NWE0OGQxMmU2XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Last First: Winter K2",
+  "year": 2026
+ },
+ "ldndocs 2026 time and water|2026|": {
+  "checked": "2026-11-09T09:01:47",
+  "imdb": "tt39163015",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTAzNjhlNzUtYWJhMy00NTJlLWEyMDEtNWExMjc0ZTQxMTBmXkEyXkFqcGc@._V1_.jpg",
+  "title": "Time and Water",
+  "year": 2026
+ },
+ "ldndocs 2026 union town|2026|": {
+  "checked": "2026-11-09T09:01:56",
+  "imdb": "tt40792103",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNkN2E4MWYtZGYxOC00MTAxLWJkNjAtNDMzNDZjZTNkYTVjXkEyXkFqcGc@._V1_.jpg",
+  "title": "Union Town",
   "year": 2026
  },
  "ldndocs a fox under a pink moon|2026|oskouei": {
@@ -2499,8 +2698,25 @@
   "title": "A Fox Under a Pink Moon",
   "year": 2025
  },
+ "ldndocs illusions of an everlasting|2026|": {
+  "checked": "2026-11-09T09:02:00"
+ },
+ "ldndocs the great experiment|2026|": {
+  "checked": "2026-11-09T09:01:48",
+  "imdb": "tt39640011",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNkMTExOWItYTljNS00YmMxLWE4YjktNDU0ZDcxNjAxZjI3XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Great Experiment",
+  "year": 2026
+ },
+ "ldndocs to hold a mountain|2026|tutorov": {
+  "checked": "2026-11-09T09:01:57",
+  "imdb": "tt39150043",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY5ZWFhYWEtYmUyNy00NjllLWIyZDctYjRlYzMxMjAzNmZhXkEyXkFqcGc@._V1_.jpg",
+  "title": "To Hold a Mountain",
+  "year": 2026
+ },
  "league of legends worlds 26 finals in cinema|2026|": {
-  "checked": "2026-11-01T09:20:09"
+  "checked": "2026-11-09T09:01:37"
  },
  "league of legends worlds 26 finals in cinema||": {
   "checked": "2026-11-01T09:20:13"
@@ -2582,6 +2798,9 @@
  },
  "lpff 2026 gaza shorts survival among the ruins|2026|": {
   "checked": "2026-11-04T09:02:23"
+ },
+ "lpff 2026 mediterranean fever screentalk|2026|haj": {
+  "checked": "2026-11-09T09:01:55"
  },
  "lpff 2026 short session between worlds|2026|": {
   "checked": "2026-11-05T15:22:31",
@@ -2735,13 +2954,20 @@
   "year": 2026
  },
  "momo and the time thieves|2026|bang,bodnia,ditter,freeman": {
-  "checked": "2026-11-01T09:20:08"
+  "checked": "2026-11-09T09:01:36"
  },
  "momo and the time thieves|2026|copeland,ditter,mann,smith": {
   "checked": "2026-11-04T09:02:19"
  },
  "momo and the time thieves|2026|ditter,goodall,haddock,oshunremi": {
   "checked": "2026-11-04T09:02:24"
+ },
+ "money maker||": {
+  "checked": "2026-11-09T09:02:21",
+  "imdb": "tt35495035",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJiNzA2MjAtYmJkYi00M2M3LWJlYTctYTc0ZWQ1ZDIxOTdiXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Money Maker",
+  "year": 2025
  },
  "monster mia|2026|altenberger,assinger,fels,gartner": {
   "checked": "2026-10-22T22:26:25",
@@ -2761,7 +2987,7 @@
   "checked": "2026-11-04T09:02:30"
  },
  "mookuthi amman 2 maha sakthi tamil|2026|c,cassandra,sneha,vijayakumar": {
-  "checked": "2026-10-29T09:01:40"
+  "checked": "2026-11-09T09:01:34"
  },
  "mookuthi amman 2 maha sakthi telugu|2026|c,cassandra,sneha,vijayakumar": {
   "checked": "2026-11-04T09:02:18"
@@ -2870,10 +3096,10 @@
   "year": 2024
  },
  "nff 2026 shorts award winners showcase||": {
-  "checked": "2026-11-02T09:01:28"
+  "checked": "2026-11-09T09:02:22"
  },
  "nff 2026 shorts british mix||": {
-  "checked": "2026-11-02T09:01:29"
+  "checked": "2026-11-09T09:02:24"
  },
  "nff 2026 shorts for the planet||": {
   "checked": "2026-11-07T13:53:32"
@@ -2905,7 +3131,7 @@
   "checked": "2026-11-08T14:14:53"
  },
  "nff 2026 shorts the mix tape vol 3||": {
-  "checked": "2026-11-02T09:01:30"
+  "checked": "2026-11-09T09:02:25"
  },
  "nff 2026 shorts the recollection collection||": {
   "checked": "2026-11-07T13:53:30"
@@ -3029,6 +3255,13 @@
  },
  "onwards and sideways|2026|byrne,dolan,linney,madden": {
   "checked": "2026-11-04T09:02:16",
+  "imdb": "tt11445200",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YWJlNTEtNGUyOS00OGI1LTkzMDMtNWM0MWI2ZjhhYTBhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Onwards and Sideways",
+  "year": 2026
+ },
+ "onwards and sideways|2026|byrne,ifans,linney,madden": {
+  "checked": "2026-11-09T09:02:12",
   "imdb": "tt11445200",
   "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YWJlNTEtNGUyOS00OGI1LTkzMDMtNWM0MWI2ZjhhYTBhXkEyXkFqcGc@._V1_.jpg",
   "title": "Onwards and Sideways",
@@ -3253,6 +3486,9 @@
  "pip and posy sandpit friends||": {
   "checked": "2026-11-08T14:14:45"
  },
+ "pip and posy the cinema show||": {
+  "checked": "2026-11-09T09:02:20"
+ },
  "portrait of a lady on fire||": {
   "checked": "2026-10-22T22:26:31",
   "imdb": "tt8613070",
@@ -3403,7 +3639,7 @@
   "year": 2026
  },
  "primetime presented by deeper into movies||gisondo,oppenheim,pattinson,wever": {
-  "checked": "2026-10-31T09:16:38"
+  "checked": "2026-11-09T09:02:08"
  },
  "primetime|2026|bridgers,oppenheim,pattinson,wever": {
   "checked": "2026-10-22T22:26:30",
@@ -3485,25 +3721,25 @@
   "year": 1991
  },
  "ramayana english dub|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-10-31T09:16:31"
+  "checked": "2026-11-09T09:01:34"
  },
  "ramayana english|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-10-24T09:19:11"
  },
  "ramayana hindi|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-10-31T09:16:29"
+  "checked": "2026-11-09T09:01:33"
  },
  "ramayana kannada|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-01T09:20:07"
+  "checked": "2026-11-09T09:01:34"
  },
  "ramayana malayalam|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-10-31T09:16:31"
+  "checked": "2026-11-09T09:01:32"
  },
  "ramayana rise of a legend directors cut|2026|kapoor,pallavi,tiwari,yash": {
   "checked": "2026-11-06T14:57:05"
  },
  "ramayana rise of a legend hindi|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-10-31T09:16:42"
+  "checked": "2026-11-09T09:02:11"
  },
  "ramayana rise of a legend malayalam|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-10-31T09:16:42"
@@ -3529,10 +3765,10 @@
   "year": 2026
  },
  "ramayana tamil|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-01T09:20:07"
+  "checked": "2026-11-09T09:01:33"
  },
  "ramayana telugu|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-10-31T09:16:30"
+  "checked": "2026-11-09T09:01:35"
  },
  "rammstein live in mexico city|2026|dugdale,kruspe,landers,lindemann": {
   "checked": "2026-10-22T22:26:28",
@@ -3583,7 +3819,7 @@
   "checked": "2026-10-22T22:26:31"
  },
  "relaxed shaun the sheep the beast of mossy bottom||": {
-  "checked": "2026-11-02T09:01:21"
+  "checked": "2026-11-09T09:02:13"
  },
  "resident evil|2026|abrams,cherry,cregger,hauser": {
   "checked": "2026-10-22T22:26:28",
@@ -3865,6 +4101,13 @@
   "title": "The Shining",
   "year": 1980
  },
+ "sicario|2015|blunt,brolin,toro,villeneuve": {
+  "checked": "2026-11-09T09:02:03",
+  "imdb": "tt3397884",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_.jpg",
+  "title": "Sicario",
+  "year": 2015
+ },
  "sinners|2025|caton,coogler,jordan,steinfeld": {
   "checked": "2026-10-22T22:26:28",
   "imdb": "tt31193180",
@@ -3907,6 +4150,13 @@
   "title": "Akira",
   "year": 1988
  },
+ "sla 2026 chimney town frozen in time||": {
+  "checked": "2026-11-09T09:02:15",
+  "imdb": "tt39371353",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3OWJhZGItMjlhNy00MDNkLTgzNzgtMDIyYWIzZmVmNzZjXkEyXkFqcGc@._V1_.jpg",
+  "title": "Chimney Town: Frozen in Time",
+  "year": 2026
+ },
  "sla 2026 cocoon with documentary||": {
   "checked": "2026-11-08T14:14:48"
  },
@@ -3939,7 +4189,7 @@
   "year": 2020
  },
  "sla 2026 samurai ballerina||": {
-  "checked": "2026-11-02T09:01:24"
+  "checked": "2026-11-09T09:02:16"
  },
  "sla 2026 shiranui||": {
   "checked": "2026-11-07T13:53:27",
@@ -3951,8 +4201,15 @@
  "sla 2026 the keeper of the camphor tree||": {
   "checked": "2026-11-08T14:14:50"
  },
+ "sla 2026 the obsessed||": {
+  "checked": "2026-11-09T09:02:17",
+  "imdb": "tt1198138",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwOTM2MzE5MF5BMl5BanBnXkFtZTcwMjM0NTcyMg@@._V1_.jpg",
+  "title": "Obsessed",
+  "year": 2009
+ },
  "sla 2026 to you in the beyond||": {
-  "checked": "2026-11-02T09:01:25"
+  "checked": "2026-11-09T09:02:19"
  },
  "sla 2026 we are aliens||": {
   "checked": "2026-11-01T09:20:43",
@@ -4098,6 +4355,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNmRkYmFmODItYjk2Ny00MzkxLTg5NDYtZmU3MjI4MjNjNDdhXkEyXkFqcGc@._V1_.jpg",
   "title": "Summer Holidays",
   "year": 2026
+ },
+ "sunrise on the reaping sunrise event screening|2026|culkin,hawke,lawrence,zada": {
+  "checked": "2026-11-09T09:01:39"
  },
  "sunset boulevard||": {
   "checked": "2026-10-22T22:26:31",
@@ -4315,6 +4575,9 @@
   "title": "Udta Teer",
   "year": 2026
  },
+ "ukjff 2026 british jewish life on film brighton||": {
+  "checked": "2026-11-09T09:02:14"
+ },
  "ukjff 2026 british jewish life on film norwich||": {
   "checked": "2026-11-04T09:02:34"
  },
@@ -4356,13 +4619,13 @@
   "checked": "2026-11-07T13:53:22"
  },
  "ukjff closing night gala the last concert|2026|arcady": {
-  "checked": "2026-11-02T09:01:15"
+  "checked": "2026-11-09T09:01:46"
  },
  "ukjff documentary gala shalom|2026|zvieli": {
-  "checked": "2026-11-01T09:20:11"
+  "checked": "2026-11-09T09:01:42"
  },
  "ukjff father father|2026|wizenfeld": {
-  "checked": "2026-11-02T09:01:13"
+  "checked": "2026-11-09T09:01:45"
  },
  "ukjff noga|2026|bergmann": {
   "checked": "2026-11-02T09:01:14",
@@ -4379,7 +4642,7 @@
   "year": 2026
  },
  "ukjff the righteous road trip|2026|roth": {
-  "checked": "2026-11-02T09:01:12"
+  "checked": "2026-11-09T09:01:44"
  },
  "ukjff we met at grossinger s|2026|eiselt": {
   "checked": "2026-11-02T09:01:11",
@@ -5322,6 +5585,13 @@
   ],
   "released": "2021-07-01"
  },
+ "wd|tt1198138": {
+  "genres": [
+   "drama film",
+   "thriller film"
+  ],
+  "released": "2009-04-23"
+ },
  "wd|tt11995650": {
   "genres": [
    "drama film",
@@ -5449,6 +5719,14 @@
   ],
   "released": "2026-02-09"
  },
+ "wd|tt15047880": {
+  "genres": [
+   "drama film",
+   "science fiction film",
+   "thriller film"
+  ],
+  "released": "2026-06-10"
+ },
  "wd|tt15095848": {
   "genres": [
    "drama film",
@@ -5536,6 +5814,14 @@
    "gangster film"
   ],
   "released": "2026-05-22"
+ },
+ "wd|tt21285562": {
+  "genres": [
+   "drama film",
+   "science fiction film",
+   "post-apocalyptic film"
+  ],
+  "released": "2026-08-26"
  },
  "wd|tt2166542": {
   "genres": [
@@ -5923,6 +6209,12 @@
   ],
   "released": "2026-08-21"
  },
+ "wd|tt32368068": {
+  "genres": [
+   "documentary film"
+  ],
+  "released": "2025-12-17"
+ },
  "wd|tt32393988": {
   "genres": [
    "supernatural horror film"
@@ -6030,6 +6322,10 @@
   "genres": [],
   "released": null
  },
+ "wd|tt33502292": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt33764258": {
   "genres": [
    "fantasy film",
@@ -6039,6 +6335,16 @@
    "historical film"
   ],
   "released": "2026-07-06"
+ },
+ "wd|tt3397884": {
+  "genres": [
+   "drama film",
+   "action film",
+   "thriller film",
+   "crime film",
+   "mystery film"
+  ],
+  "released": "2015-09-18"
  },
  "wd|tt33995791": {
   "genres": [],
@@ -6106,6 +6412,12 @@
   ],
   "released": "2026-10-13"
  },
+ "wd|tt34966140": {
+  "genres": [
+   "comedy film"
+  ],
+  "released": "2026-11-25"
+ },
  "wd|tt34966562": {
   "genres": [
    "black comedy film"
@@ -6134,6 +6446,10 @@
    "drama film"
   ],
   "released": "2026-05-18"
+ },
+ "wd|tt35495035": {
+  "genres": [],
+  "released": "2025-01-01"
  },
  "wd|tt35511966": {
   "genres": [
@@ -6243,6 +6559,10 @@
   "released": null
  },
  "wd|tt36915004": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt36957857": {
   "genres": [],
   "released": null
  },
@@ -6484,6 +6804,10 @@
   "genres": [],
   "released": "2026-05-20"
  },
+ "wd|tt39089238": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt39131708": {
   "genres": [],
   "released": null
@@ -6509,13 +6833,27 @@
   ],
   "released": "2026-01-25"
  },
+ "wd|tt39150043": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt39150093": {
   "genres": [
    "documentary film"
   ],
   "released": null
  },
+ "wd|tt39150288": {
+  "genres": [
+   "documentary film"
+  ],
+  "released": "2026-10-02"
+ },
  "wd|tt39150922": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt39163015": {
   "genres": [],
   "released": null
  },
@@ -6566,7 +6904,18 @@
   ],
   "released": "2026-02-16"
  },
+ "wd|tt39371353": {
+  "genres": [
+   "fantasy film",
+   "animated film"
+  ],
+  "released": "2026-02-16"
+ },
  "wd|tt39382862": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt39640011": {
   "genres": [],
   "released": null
  },
@@ -6598,12 +6947,22 @@
   "genres": [],
   "released": null
  },
+ "wd|tt40792103": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt41356909": {
   "genres": [],
   "released": null
  },
  "wd|tt41593493": {
   "genres": [],
+  "released": "2026-01-01"
+ },
+ "wd|tt41593500": {
+  "genres": [
+   "documentary film"
+  ],
   "released": "2026-01-01"
  },
  "wd|tt41830798": {
@@ -6657,6 +7016,10 @@
   "released": null
  },
  "wd|tt43201279": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt43438831": {
   "genres": [],
   "released": null
  },
@@ -6814,6 +7177,10 @@
    "vampire film"
   ],
   "released": "2024-12-02"
+ },
+ "wd|tt50486016": {
+  "genres": [],
+  "released": null
  },
  "wd|tt50542289": {
   "genres": [],
@@ -6974,13 +7341,13 @@
   "checked": "2026-10-30T13:59:36"
  },
  "we re going on a bear hunt the tiger who came to tea|2026|cumberbatch,harrison,oyelowo,walliams": {
-  "checked": "2026-10-30T09:01:52"
+  "checked": "2026-11-09T09:02:10"
  },
  "we re going on a bear hunt the tiger who came to tea||": {
   "checked": "2026-11-06T14:57:09"
  },
  "we re going on a bear hunt tiger who came to|2026|ferris,greig,harrison,walliams": {
-  "checked": "2026-10-30T09:01:42"
+  "checked": "2026-11-09T09:01:37"
  },
  "we the hated|2026|felgate": {
   "checked": "2026-10-30T09:01:46",
@@ -6995,6 +7362,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMDE1ZGY1MDQtOWNlYS00ZDgyLTlkMjQtMDNlMmIwZTMzNjRkXkEyXkFqcGc@._V1_.jpg",
   "title": "We, the Hated",
   "year": 2026
+ },
+ "wedding entertainer||dar,gold,goldman,rand": {
+  "checked": "2026-11-09T09:02:07"
  },
  "weight|2026|crowe,hawke,jones,mckinley": {
   "checked": "2026-10-22T22:26:31",
@@ -7030,6 +7400,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOWJkMjA4M2MtODRkMi00NzI4LTk4MDQtNDZlODdhNDdkYmM3XkEyXkFqcGc@._V1_.jpg",
   "title": "Whalefall",
   "year": 2026
+ },
+ "whispers in the woods|2026|munier": {
+  "checked": "2026-11-09T09:01:51",
+  "imdb": "tt32368068",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTEwMTA5OGItN2FlNS00ZjFiLWIyNzktYTVmZDZlOGNlMGYwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Whispers in the Woods",
+  "year": 2025
  },
  "who s afraid of virginia woolf|2026|burton,nichols,seagal,taylor": {
   "checked": "2026-10-22T22:26:27",
@@ -7192,8 +7569,22 @@
   "title": "The Yellow Tie",
   "year": 2025
  },
+ "you can see everything|2026|abbott,holmes,oppenheim": {
+  "checked": "2026-11-09T09:01:40",
+  "imdb": "tt45368240",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
+  "title": "You Can See Everything",
+  "year": 2026
+ },
  "you can see everything|2026|abbott,oppenheim,seyfried": {
   "checked": "2026-11-07T13:53:22",
+  "imdb": "tt45368240",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
+  "title": "You Can See Everything",
+  "year": 2026
+ },
+ "you can see everything|2026|fielder,holmes,oppenheim": {
+  "checked": "2026-11-09T09:02:11",
   "imdb": "tt45368240",
   "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
   "title": "You Can See Everything",
