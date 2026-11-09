@@ -290,6 +290,13 @@
   "title": "Being Heumann",
   "year": 2026
  },
+ "being heumann||": {
+  "checked": "2026-11-09T17:26:17",
+  "imdb": "tt15095848",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgyNTZmNTItZjYxOS00Nzk0LWE4MGMtZWE1M2ZkZTk0MmU2XkEyXkFqcGc@._V1_.jpg",
+  "title": "Being Heumann",
+  "year": 2026
+ },
  "bel|2026|": {
   "checked": "2026-11-05T15:22:30"
  },
@@ -2082,7 +2089,7 @@
   "checked": "2026-11-02T09:01:17"
  },
  "heated rivalry season one all dayer||": {
-  "checked": "2026-11-02T16:58:59"
+  "checked": "2026-11-09T17:26:20"
  },
  "heat|2026|kilmer,mann,niro,pacino": {
   "checked": "2026-10-22T22:26:30",
@@ -2756,10 +2763,10 @@
   "checked": "2026-10-30T13:59:36"
  },
  "lmf blockhead microbudget feature workshop||": {
-  "checked": "2026-11-02T16:59:01"
+  "checked": "2026-11-09T17:26:18"
  },
  "lmf making your microbudget feature workshop||": {
-  "checked": "2026-11-02T16:59:01"
+  "checked": "2026-11-09T17:26:18"
  },
  "long winter||": {
   "checked": "2026-11-02T09:01:20",
@@ -2910,6 +2917,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
   "title": "Michael",
   "year": 2026
+ },
+ "minecraft movie||": {
+  "checked": "2026-11-09T17:26:19",
+  "imdb": "tt3566834",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
+  "title": "A Minecraft Movie",
+  "year": 2025
  },
  "minions and monsters|2026|bridges,coffin,janney,waltz": {
   "checked": "2026-10-22T22:26:30",
@@ -3633,6 +3647,13 @@
  },
  "prima facie|2026|erivo,ings,jimoh,white": {
   "checked": "2026-10-31T09:16:42",
+  "imdb": "tt27759858",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2UwM2MzNzEtYzJiNC00ZTUwLWIwNDItNmIzMmJkMWI1ZmZjXkEyXkFqcGc@._V1_.jpg",
+  "title": "Prima Facie",
+  "year": 2026
+ },
+ "prima facie||": {
+  "checked": "2026-11-09T17:26:17",
   "imdb": "tt27759858",
   "poster": "https://m.media-amazon.com/images/M/MV5BM2UwM2MzNzEtYzJiNC00ZTUwLWIwNDItNmIzMmJkMWI1ZmZjXkEyXkFqcGc@._V1_.jpg",
   "title": "Prima Facie",
@@ -6474,6 +6495,16 @@
  "wd|tt35665999": {
   "genres": [],
   "released": null
+ },
+ "wd|tt3566834": {
+  "genres": [
+   "fantasy film",
+   "comedy film",
+   "action film",
+   "family film",
+   "adventure film"
+  ],
+  "released": "2025-04-02"
  },
  "wd|tt35670004": {
   "genres": [
