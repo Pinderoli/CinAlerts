@@ -1484,8 +1484,15 @@
   "title": "Addams Family Values",
   "year": 1993
  },
+ "dog friendly ebenezer||": {
+  "checked": "2026-11-13T15:18:07",
+  "imdb": "tt38773219",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Ebenezer",
+  "year": 2026
+ },
  "dog friendly ghosts possession of button house||": {
-  "checked": "2026-11-06T14:57:09"
+  "checked": "2026-11-13T15:18:07"
  },
  "dog friendly pan s labyrinth||": {
   "checked": "2026-11-01T09:20:31",
@@ -4105,7 +4112,7 @@
   "checked": "2026-11-09T09:01:32"
  },
  "ramayana rise of a legend directors cut|2026|kapoor,pallavi,tiwari,yash": {
-  "checked": "2026-11-06T14:57:05"
+  "checked": "2026-11-13T15:18:06"
  },
  "ramayana rise of a legend hindi|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-11-09T09:02:11"
@@ -4710,6 +4717,13 @@
  "steel on film|2026|": {
   "checked": "2026-11-04T09:02:21"
  },
+ "steps|2026|dinklage,hsu,radcliffe,tzue": {
+  "checked": "2026-11-13T15:18:05",
+  "imdb": "tt14413964",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNjk2NmUtZWZlYi00ZDY4LWExYzgtNDY1ZGY3YTA2NDhlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Steps",
+  "year": 2026
+ },
  "stray kids world tour run it live viewing|2026|chan,entertainment,kids,know": {
   "checked": "2026-11-02T09:01:16",
   "imdb": "tt48391060",
@@ -4943,7 +4957,7 @@
   "year": 2026
  },
  "tours of the duke of york s||": {
-  "checked": "2026-11-06T14:57:07"
+  "checked": "2026-11-13T15:18:06"
  },
  "traces of justice mandarin|2026|chen,li,xuejian,zhang": {
   "checked": "2026-11-12T09:02:17"
@@ -6196,6 +6210,14 @@
    "dystopian film"
   ],
   "released": "2026-10-22"
+ },
+ "wd|tt14413964": {
+  "genres": [
+   "fantasy film",
+   "comedy film",
+   "musical film"
+  ],
+  "released": "2026-11-20"
  },
  "wd|tt1461418": {
   "genres": [
