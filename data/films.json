@@ -165,6 +165,26 @@
   "title": "American Doctor",
   "year": 2026
  },
+ "andrew lloyd webber s starlight express|2026|braich,marvin,ringrose,sullivan": {
+  "checked": "2026-11-13T09:02:07",
+  "imdb": "tt50017070",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmYxYTVmNmQtZGRjMi00MzA3LTkwOWMtZDYwMmJlMjM1ZTRiXkEyXkFqcGc@._V1_.jpg",
+  "title": "Andrew Lloyd Webber's Starlight Express",
+  "year": 2026
+ },
+ "andrew lloyd webbers starlight express live on stage|2026|braich,marvin,ringrose,sullivan": {
+  "checked": "2026-11-13T09:02:08"
+ },
+ "andrew lloyd webbers starlight express|2026|braich,marvin,ringrose,sullivan": {
+  "checked": "2026-11-13T09:02:05"
+ },
+ "andrew lloyd webbers starlight express||": {
+  "checked": "2026-11-13T09:02:10",
+  "imdb": "tt0367091",
+  "poster": null,
+  "title": "Starlight Express",
+  "year": 2003
+ },
  "animol|2026|baliuk,graham,nyuot,walters": {
   "checked": "2026-10-27T09:11:08",
   "imdb": "tt33995791",
@@ -1005,6 +1025,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
   "title": "Wild Horse Nine",
   "year": 2026
+ },
+ "cfs kontinental 25||": {
+  "checked": "2026-11-13T09:02:11",
+  "imdb": "tt35492581",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU5YzNlZGEtMjdlYi00NjhlLWFkOTItNjFhMWI2MDM5OTY0XkEyXkFqcGc@._V1_.jpg",
+  "title": "Kontinental '25",
+  "year": 2025
  },
  "cfs resurrection||": {
   "checked": "2026-10-30T09:02:03",
@@ -2659,6 +2686,13 @@
  "jane schoenbrun public access afterworld|2026|schoenbrun": {
   "checked": "2026-11-09T09:01:43"
  },
+ "jimi plays berkeley||": {
+  "checked": "2026-11-13T09:02:11",
+  "imdb": "tt0245184",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUzZjI2NzItMGQ3YS00MzU0LWJlOTQtZGNkMTg5NDUyM2ZlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Jimi Plays Berkeley",
+  "year": 1971
+ },
  "john doe|2026|das,madhumita,natarajan,singh": {
   "checked": "2026-11-10T09:02:19",
   "imdb": "tt49855692",
@@ -3028,6 +3062,13 @@
   "imdb": "tt34734549",
   "poster": "https://m.media-amazon.com/images/M/MV5BMTc2ZTFiOGUtMDgzOS00ZjBiLTgwOTQtNGY3ZjQyNThjY2EzXkEyXkFqcGc@._V1_.jpg",
   "title": "Chronicles from the Siege",
+  "year": 2026
+ },
+ "lpff 2026 concrete land|2026|bkerat": {
+  "checked": "2026-11-13T09:02:06",
+  "imdb": "tt14829578",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDgzNDU1YTctMGRiMS00Y2VlLWI1OWUtMTZkNGI4ZmFhOGVlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Concrete Land",
   "year": 2026
  },
  "lpff 2026 gaza shorts survival among the ruins|2026|": {
@@ -4849,6 +4890,13 @@
   "title": "They Live",
   "year": 1988
  },
+ "third man||": {
+  "checked": "2026-11-13T09:02:08",
+  "imdb": "tt0041959",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVjMTMxZTQtMmVlNy00YmI0LWJjMDUtYTgyZWU1Njg5ZGRiXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Third Man",
+  "year": 1949
+ },
  "titans malayalam|2026|jayasurya,jean,joy,vinayakan": {
   "checked": "2026-10-30T09:01:56"
  },
@@ -4944,6 +4992,9 @@
   "title": "Udta Teer",
   "year": 2026
  },
+ "ukjff 2026 british jewish life on film bath||": {
+  "checked": "2026-11-13T09:02:09"
+ },
  "ukjff 2026 british jewish life on film brighton||": {
   "checked": "2026-11-09T09:02:14"
  },
@@ -4972,6 +5023,13 @@
  },
  "ukjff 2026 the sea||": {
   "checked": "2026-11-01T14:14:07"
+ },
+ "ukjff 2026 the soundman||": {
+  "checked": "2026-11-13T09:02:10",
+  "imdb": "tt22872358",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJhYTdjYjAtZjFiNy00NzkzLThmMGYtNmMxOGZkZWEwYTAzXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Soundman",
+  "year": 2025
  },
  "ukjff 2026 vindicta||": {
   "checked": "2026-10-29T09:01:49",
@@ -5132,6 +5190,16 @@
  "wd|tt0039953": {
   "genres": [],
   "released": null
+ },
+ "wd|tt0041959": {
+  "genres": [
+   "drama film",
+   "film noir",
+   "adventure film",
+   "mystery film",
+   "thriller film"
+  ],
+  "released": "1949-09-01"
  },
  "wd|tt0043014": {
   "genres": [
@@ -5688,6 +5756,10 @@
   ],
   "released": "2001-08-02"
  },
+ "wd|tt0245184": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt0246578": {
   "genres": [
    "drama film",
@@ -5813,6 +5885,10 @@
    "zombie comedy"
   ],
   "released": "2004-01-01"
+ },
+ "wd|tt0367091": {
+  "genres": [],
+  "released": null
  },
  "wd|tt0369339": {
   "genres": [
@@ -6135,6 +6211,10 @@
   ],
   "released": "2026-02-09"
  },
+ "wd|tt14829578": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt15047880": {
   "genres": [
    "drama film",
@@ -6278,6 +6358,13 @@
    "horror film"
   ],
   "released": "2013-01-01"
+ },
+ "wd|tt22872358": {
+  "genres": [
+   "drama film",
+   "romance film"
+  ],
+  "released": "2025-12-17"
  },
  "wd|tt2304426": {
   "genres": [
@@ -6921,6 +7008,13 @@
    "drama film"
   ],
   "released": "2015-01-01"
+ },
+ "wd|tt35492581": {
+  "genres": [
+   "drama film",
+   "comedy film"
+  ],
+  "released": "2025-02-19"
  },
  "wd|tt35495035": {
   "genres": [],
@@ -7708,6 +7802,10 @@
   "released": "2016-01-01"
  },
  "wd|tt49855692": {
+  "genres": [],
+  "released": null
+ },
+ "wd|tt50017070": {
   "genres": [],
   "released": null
  },
