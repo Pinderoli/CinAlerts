@@ -163,7 +163,7 @@
   "year": 2000
  },
  "amadeus cuckoos nest and so much more milos forman day school||": {
-  "checked": "2026-11-08T14:14:50"
+  "checked": "2026-11-15T14:40:20"
  },
  "american doctor|2026|teng": {
   "checked": "2026-11-14T09:32:58",
@@ -670,7 +670,7 @@
   "year": 2027
  },
  "cbeebies panto treasure island||": {
-  "checked": "2026-11-08T14:14:47"
+  "checked": "2026-11-15T14:40:17"
  },
  "celebrity traitors finale watch party||": {
   "checked": "2026-10-28T09:01:50"
@@ -1956,7 +1956,7 @@
   "year": 2026
  },
  "festive fun with peppa|2026|": {
-  "checked": "2026-11-08T14:14:44"
+  "checked": "2026-11-15T14:40:16"
  },
  "fjord members preview||carlehed,mungiu,reinsve,stan": {
   "checked": "2026-11-04T09:02:24"
@@ -2419,6 +2419,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BYWRhOThjM2UtNmRhMi00YzFiLWI4MDYtOGQwNGY0ZjFlOGFkXkEyXkFqcGc@._V1_.jpg",
   "title": "Hocus Pocus",
   "year": 1993
+ },
+ "home alone 2 lost in new york|2024|columbus,culkin,pesci,stern": {
+  "checked": "2026-11-15T14:40:16",
+  "imdb": "tt0104431",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGEyYzRmNzYtYzJjZi00ZjhlLWJiNDktYzZhNTgxMzc1NThlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Home Alone 2: Lost in New York",
+  "year": 1992
  },
  "home alone|2018|columbus,culkin,hara,pesci": {
   "checked": "2026-11-08T14:14:43",
@@ -4021,7 +4028,7 @@
   "year": 2017
  },
  "pip and posy sandpit friends||": {
-  "checked": "2026-11-08T14:14:45"
+  "checked": "2026-11-15T14:40:17"
  },
  "pip and posy the cinema show||": {
   "checked": "2026-11-09T09:02:20"
@@ -4757,7 +4764,7 @@
   "year": 2026
  },
  "sla 2026 cocoon with documentary||": {
-  "checked": "2026-11-08T14:14:48"
+  "checked": "2026-11-15T14:40:18"
  },
  "sla 2026 ghost||": {
   "checked": "2026-10-31T09:16:48",
@@ -4798,7 +4805,7 @@
   "year": 1923
  },
  "sla 2026 the keeper of the camphor tree||": {
-  "checked": "2026-11-08T14:14:50"
+  "checked": "2026-11-15T14:40:19"
  },
  "sla 2026 the obsessed||": {
   "checked": "2026-11-09T09:02:17",
@@ -5807,6 +5814,15 @@
    "historical film"
   ],
   "released": "1991-01-01"
+ },
+ "wd|tt0104431": {
+  "genres": [
+   "comedy film",
+   "Christmas film",
+   "mystery film",
+   "family film"
+  ],
+  "released": "1992-11-20"
  },
  "wd|tt0106220": {
   "genres": [
