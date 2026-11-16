@@ -2073,7 +2073,7 @@
   "year": 1993
  },
  "funky stuff||": {
-  "checked": "2026-11-09T09:02:20"
+  "checked": "2026-11-16T16:56:22"
  },
  "further mis adventures of cliff booth|2026|debicki,fincher,olyphant,pitt": {
   "checked": "2026-11-12T09:02:18",
@@ -2212,6 +2212,13 @@
  },
  "go for broke 2 mandarin|2026|aruna,kohnke,ma,mamisashvili": {
   "checked": "2026-10-22T22:26:26"
+ },
+ "godzilla minus one||": {
+  "checked": "2026-11-16T16:56:21",
+  "imdb": "tt23289160",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjc5MjllMGUtMDIwMS00ZDVkLWEzODQtM2NlMTMwMTZhNThmXkEyXkFqcGc@._V1_.jpg",
+  "title": "Godzilla Minus One",
+  "year": 2023
  },
  "godzilla minus zero|2026|hamabe,kamiki,tanaka,yamazaki": {
   "checked": "2026-10-22T22:26:26",
@@ -2424,6 +2431,13 @@
   "imdb": "tt38077943",
   "poster": "https://m.media-amazon.com/images/M/MV5BOWM2YjUxMGUtMWNmYi00N2ZjLWI3MWEtMDJjNWQ0ZmYzMmYwXkEyXkFqcGc@._V1_.jpg",
   "title": "Hexed",
+  "year": 2026
+ },
+ "heysel 85||": {
+  "checked": "2026-11-16T16:56:21",
+  "imdb": "tt30135000",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjA5M2JiOWYtYzY1Zi00YjY2LTk3ZjAtMTQyYTc4MGNiZDE3XkEyXkFqcGc@._V1_.jpg",
+  "title": "Heysel 85",
   "year": 2026
  },
  "hocus pocus|2020|midler,najimy,ortega,parker": {
@@ -4088,7 +4102,7 @@
   "checked": "2026-11-15T14:40:17"
  },
  "pip and posy the cinema show||": {
-  "checked": "2026-11-09T09:02:20"
+  "checked": "2026-11-16T16:56:18"
  },
  "polar express|2004|deezen,hanks,zemeckis": {
   "checked": "2026-11-10T09:02:25",
@@ -4852,7 +4866,7 @@
   "year": 2020
  },
  "sla 2026 samurai ballerina||": {
-  "checked": "2026-11-09T09:02:16"
+  "checked": "2026-11-16T16:56:20"
  },
  "sla 2026 shiranui||": {
   "checked": "2026-11-07T13:53:27",
@@ -4872,7 +4886,7 @@
   "year": 2009
  },
  "sla 2026 to you in the beyond||": {
-  "checked": "2026-11-09T09:02:19"
+  "checked": "2026-11-16T16:56:21"
  },
  "sla 2026 we are aliens||": {
   "checked": "2026-11-01T09:20:43",
@@ -5290,7 +5304,7 @@
   "checked": "2026-11-13T09:02:09"
  },
  "ukjff 2026 british jewish life on film brighton||": {
-  "checked": "2026-11-09T09:02:14"
+  "checked": "2026-11-16T16:56:19"
  },
  "ukjff 2026 british jewish life on film norwich||": {
   "checked": "2026-11-11T15:03:13"
@@ -6784,6 +6798,21 @@
   ],
   "released": "2013-06-11"
  },
+ "wd|tt23289160": {
+  "genres": [
+   "drama film",
+   "action film",
+   "adventure film",
+   "science fiction film",
+   "horror film",
+   "kaiju",
+   "monster film",
+   "Japanese mythology",
+   "disaster film",
+   "thriller film"
+  ],
+  "released": "2023-11-01"
+ },
  "wd|tt2355896": {
   "genres": [],
   "released": null
@@ -7044,6 +7073,14 @@
  "wd|tt30012780": {
   "genres": [],
   "released": null
+ },
+ "wd|tt30135000": {
+  "genres": [
+   "drama film",
+   "sport film",
+   "historical film"
+  ],
+  "released": "2026-01-01"
  },
  "wd|tt30235784": {
   "genres": [
