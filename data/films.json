@@ -500,6 +500,9 @@
   "title": "Black Joy",
   "year": 1977
  },
+ "black is boundless seeds||": {
+  "checked": "2026-11-16T09:01:15"
+ },
  "blade ii||": {
   "checked": "2026-10-22T22:26:33",
   "imdb": "tt0187738",
@@ -533,6 +536,13 @@
  },
  "bouma malayalam|2026|babu,pothan,surya,vineeth": {
   "checked": "2026-11-10T09:02:29"
+ },
+ "bouma|2026|babu,balan,pothan,surya": {
+  "checked": "2026-11-16T09:01:07",
+  "imdb": "tt44878818",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRhMWMyZjItNDlhYy00M2E2LWEwNjgtZTc4MjFjMjJhMWQ1XkEyXkFqcGc@._V1_.jpg",
+  "title": "Bouma",
+  "year": 2026
  },
  "bouma|2026|babu,balan,pothan,vineeth": {
   "checked": "2026-11-10T09:02:18"
@@ -1785,6 +1795,13 @@
   "title": "Elf",
   "year": 2003
  },
+ "elf|2026|deschanel,dinklage,favreau,ferrell": {
+  "checked": "2026-11-16T09:01:11",
+  "imdb": "tt0319343",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Elf",
+  "year": 2003
+ },
  "elf||": {
   "checked": "2026-11-08T14:14:44",
   "imdb": "tt0319343",
@@ -2023,6 +2040,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMWJlY2JiNTMtYTAwYy00NGFiLTkwYTEtM2VmNDc4MzM5YmJiXkEyXkFqcGc@._V1_.jpg",
   "title": "Forgotten Island",
   "year": 2026
+ },
+ "four world premiere|2026|aiyeola,akindele,arukwe": {
+  "checked": "2026-11-16T09:01:11"
  },
  "fox under a pink moon|2026|oskouei": {
   "checked": "2026-11-10T09:02:23",
@@ -3019,6 +3039,13 @@
   "title": "Lalka",
   "year": 2026
  },
+ "last of the mohicans||": {
+  "checked": "2026-11-16T09:01:13",
+  "imdb": "tt0104691",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Last of the Mohicans",
+  "year": 1992
+ },
  "ldndocs 2026 a fox under a pink moon|2026|oskouei": {
   "checked": "2026-10-31T09:16:34",
   "imdb": "tt18163224",
@@ -3169,6 +3196,12 @@
   "title": "A Long Winter",
   "year": 2026
  },
+ "lord of the rings the rings of power ep 7|2026|": {
+  "checked": "2026-11-16T09:01:09"
+ },
+ "lord of the rings the rings of power series 3 episode 7|2026|": {
+  "checked": "2026-11-16T09:01:12"
+ },
  "lost children of tuam|2026|bennett,berry,dolan,mcelhinney": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt37677758",
@@ -3192,6 +3225,13 @@
  },
  "love actually|2003|curtis,grant,neeson,nighy": {
   "checked": "2026-10-27T09:11:24",
+  "imdb": "tt0314331",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_.jpg",
+  "title": "Love Actually",
+  "year": 2003
+ },
+ "love actually|2026|curtis,grant,rickman,thompson": {
+  "checked": "2026-11-16T09:01:11",
   "imdb": "tt0314331",
   "poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_.jpg",
   "title": "Love Actually",
@@ -3505,6 +3545,13 @@
   "title": "The Mummy Returns",
   "year": 2001
  },
+ "muppet christmas carol||": {
+  "checked": "2026-11-16T09:01:15",
+  "imdb": "tt0104940",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIwOTAyMDgtNTY1Zi00ZWMyLWFjMjAtNjI5YWIyOTE2NDJhXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Muppet Christmas Carol",
+  "year": 1992
+ },
  "mutiny|2026|mller,richet,statham,wallis": {
   "checked": "2026-11-04T09:02:25",
   "imdb": "tt32338669",
@@ -3518,6 +3565,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZmU1Mzk2ODgtZDkzNS00MjMwLTg4ZjItNmVmZTk3ZTIzMGIyXkEyXkFqcGc@._V1_.jpg",
   "title": "My Undesirable Friends: Part II - Exile",
   "year": 2026
+ },
+ "mystery film||": {
+  "checked": "2026-11-16T09:01:14",
+  "imdb": "tt0339429",
+  "poster": null,
+  "title": "The Mystery Film",
+  "year": 1924
  },
  "mystery screening|2026|": {
   "checked": "2026-10-30T09:01:53"
@@ -3654,6 +3708,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZTMwNGI2OTAtYjM3Ny00ZDk1LThkNjktOTc5MzJhZTBhYTkyXkEyXkFqcGc@._V1_.jpg",
   "title": "Nightborn",
   "year": 2026
+ },
+ "nmixx 1st world tour ep 1 zero frontier live|2026|bae,oh": {
+  "checked": "2026-11-16T09:01:10"
  },
  "nofx 40 years of fuckin up||": {
   "checked": "2026-10-22T22:26:33",
@@ -5120,6 +5177,13 @@
  "thunderbirds 4k restoration double bill 2026||": {
   "checked": "2026-11-15T10:47:37"
  },
+ "tiddler||": {
+  "checked": "2026-11-16T09:01:13",
+  "imdb": "tt33337952",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM4Nzc3ZmEtZjExZC00MjExLWJiOGMtNmVmYzg5NzJmNWVhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Tiddler",
+  "year": 2024
+ },
  "titans malayalam|2026|jayasurya,jean,joy,vinayakan": {
   "checked": "2026-10-30T09:01:56"
  },
@@ -5438,6 +5502,13 @@
    "flashback film"
   ],
   "released": "1950-01-01"
+ },
+ "wd|tt0051201": {
+  "genres": [
+   "crime film",
+   "trial film"
+  ],
+  "released": "1957-01-01"
  },
  "wd|tt0052942": {
   "genres": [
@@ -5824,6 +5895,26 @@
   ],
   "released": "1992-11-20"
  },
+ "wd|tt0104691": {
+  "genres": [
+   "drama film",
+   "romance film",
+   "war film",
+   "melodrama"
+  ],
+  "released": "1992-08-26"
+ },
+ "wd|tt0104940": {
+  "genres": [
+   "drama film",
+   "comedy film",
+   "fantasy film",
+   "musical film",
+   "children's film",
+   "Christmas film"
+  ],
+  "released": "1992-12-11"
+ },
  "wd|tt0106220": {
   "genres": [
    "fantasy film",
@@ -6157,6 +6248,10 @@
    "Christmas film"
   ],
   "released": "2004-01-01"
+ },
+ "wd|tt0339429": {
+  "genres": [],
+  "released": null
  },
  "wd|tt0365748": {
   "genres": [
@@ -7185,6 +7280,12 @@
  "wd|tt33321821": {
   "genres": [],
   "released": null
+ },
+ "wd|tt33337952": {
+  "genres": [
+   "family film"
+  ],
+  "released": "2024-12-25"
  },
  "wd|tt33381401": {
   "genres": [
@@ -8570,6 +8671,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNWNmMDVhNjgtYTJlMy00NDNiLWE0M2EtOTczNjQ0MGYxYmU0XkEyXkFqcGc@._V1_.jpg",
   "title": "Winter of the Crow",
   "year": 2025
+ },
+ "witness for the prosecution||": {
+  "checked": "2026-11-16T09:01:12",
+  "imdb": "tt0051201",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Witness for the Prosecution",
+  "year": 1957
  },
  "wolf man||": {
   "checked": "2026-10-22T22:26:33",
