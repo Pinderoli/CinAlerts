@@ -707,6 +707,13 @@
   "title": "Carol",
   "year": 2015
  },
+ "cat in the hat||berry,carloni,gomez,hader": {
+  "checked": "2026-11-20T16:01:16",
+  "imdb": "tt2321555",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Cat in the Hat",
+  "year": 2026
+ },
  "catli 2|2026|enyuksek,inceefe,kurt,vurdem": {
   "checked": "2026-10-27T09:11:11",
   "imdb": "tt49514466",
@@ -1661,7 +1668,7 @@
   "year": 2026
  },
  "dog friendly ghosts possession of button house||": {
-  "checked": "2026-11-13T15:18:07"
+  "checked": "2026-11-20T16:01:18"
  },
  "dog friendly pan s labyrinth||": {
   "checked": "2026-11-01T09:20:31",
@@ -2647,6 +2654,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_.jpg",
   "title": "The Holdovers",
   "year": 2023
+ },
+ "holiday|2025|diaz,law,meyers,winslet": {
+  "checked": "2026-11-20T16:01:17",
+  "imdb": "tt0457939",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holiday",
+  "year": 2006
  },
  "home alone 2 lost in new york|2024|columbus,culkin,pesci,stern": {
   "checked": "2026-11-15T14:40:16",
@@ -4726,7 +4740,7 @@
   "checked": "2026-11-18T09:02:14"
  },
  "ramayana rise of a legend directors cut|2026|kapoor,pallavi,tiwari,yash": {
-  "checked": "2026-11-13T15:18:06"
+  "checked": "2026-11-20T16:01:16"
  },
  "ramayana rise of a legend hindi|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-11-18T09:02:32"
@@ -5656,7 +5670,7 @@
   "year": 2026
  },
  "tours of the duke of york s||": {
-  "checked": "2026-11-13T15:18:06"
+  "checked": "2026-11-20T16:01:18"
  },
  "traces of justice mandarin|2026|chen,li,xuejian,zhang": {
   "checked": "2026-11-12T09:02:17"
@@ -5719,7 +5733,7 @@
   "year": 2026
  },
  "ukjff 2026 british jewish life on film bath||": {
-  "checked": "2026-11-13T09:02:09"
+  "checked": "2026-11-20T16:01:17"
  },
  "ukjff 2026 british jewish life on film brighton||": {
   "checked": "2026-11-16T16:56:19"
@@ -6848,6 +6862,14 @@
   ],
   "released": "2006-05-27"
  },
+ "wd|tt0457939": {
+  "genres": [
+   "romantic comedy",
+   "comedy film",
+   "Christmas film"
+  ],
+  "released": "2006-12-05"
+ },
  "wd|tt0780536": {
   "genres": [
    "drama film",
@@ -7340,6 +7362,14 @@
   ],
   "released": "2013-06-11"
  },
+ "wd|tt2321555": {
+  "genres": [
+   "fantasy film",
+   "children's film",
+   "fantasy comedy film"
+  ],
+  "released": "2026-10-25"
+ },
  "wd|tt23289160": {
   "genres": [
    "drama film",
@@ -7822,6 +7852,15 @@
    "monster film"
   ],
   "released": "2026-06-24"
+ },
+ "wd|tt32897959": {
+  "genres": [
+   "Gothic film",
+   "psychological drama film",
+   "romantic drama film",
+   "drama film"
+  ],
+  "released": "2026-02-12"
  },
  "wd|tt32909364": {
   "genres": [],
@@ -9348,6 +9387,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNzllNzlkNzYtZTEzZi00ODMwLWFlYTctZDE5Mzk0NTM1NmViXkEyXkFqcGc@._V1_.jpg",
   "title": "Willy Wonka & the Chocolate Factory",
   "year": 1971
+ },
+ "wuthering heights||": {
+  "checked": "2026-11-20T16:01:18",
+  "imdb": "tt32897959",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNkNmNhOWUtZTFmOC00YmQ4LWEzYWQtZjdlMGU0MGRkN2YzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Wuthering Heights",
+  "year": 2026
  },
  "yellow tie||": {
   "checked": "2026-10-27T09:13:38",
