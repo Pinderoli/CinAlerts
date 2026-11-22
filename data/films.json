@@ -748,6 +748,13 @@
   "title": "The Cat in the Hat",
   "year": 2026
  },
+ "cat in the hat||": {
+  "checked": "2026-11-22T10:17:58",
+  "imdb": "tt2321555",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Cat in the Hat",
+  "year": 2026
+ },
  "cat in the hat||berry,carloni,gomez,hader": {
   "checked": "2026-11-20T16:01:16",
   "imdb": "tt2321555",
@@ -1267,6 +1274,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_.jpg",
   "title": "The Christophers",
   "year": 2025
+ },
+ "cine chat film discussion club festive films||": {
+  "checked": "2026-11-22T10:17:59"
  },
  "cine chat film discussion club guillermo del toro||": {
   "checked": "2026-10-30T09:02:10"
@@ -1892,6 +1902,16 @@
   "title": "Dune: Part Two",
   "year": 2024
  },
+ "dune part two|2026|bautista,brolin,seydoux,villeneuve": {
+  "checked": "2026-11-22T10:17:58",
+  "imdb": "tt15239678",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Dune: Part Two",
+  "year": 2024
+ },
+ "dune parts one and two double bill|2026|": {
+  "checked": "2026-11-22T10:17:48"
+ },
  "dune|2026|bardem,bautista,isaac,villeneuve": {
   "checked": "2026-11-21T09:42:14",
   "imdb": "tt1160419",
@@ -2465,6 +2485,13 @@
  "go for broke 2 mandarin|2026|aruna,kohnke,ma,mamisashvili": {
   "checked": "2026-10-22T22:26:26"
  },
+ "goat|2026|dillihay,lewis,mclaughlin,union": {
+  "checked": "2026-11-22T10:17:54",
+  "imdb": "tt27613895",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_.jpg",
+  "title": "GOAT",
+  "year": 2026
+ },
  "godzilla minus one||": {
   "checked": "2026-11-16T16:56:21",
   "imdb": "tt23289160",
@@ -2641,6 +2668,13 @@
   "title": "Halloween",
   "year": 1978
  },
+ "hamlet|2026|ahmed,clark,karia,malik": {
+  "checked": "2026-11-22T10:17:54",
+  "imdb": "tt7798632",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE5ZjIwNDMtODEzNy00ZTA3LTk0NzUtYTIwMTEwZjdlZDI5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Hamlet",
+  "year": 2025
+ },
  "hanuman ansh hindi|2026|anand,chaturvedi,satyaa,tiwari": {
   "checked": "2026-10-22T22:26:30"
  },
@@ -2786,6 +2820,13 @@
   "title": "The Holiday",
   "year": 2006
  },
+ "holiday|2026|black,law,meyers,winslet": {
+  "checked": "2026-11-22T10:17:58",
+  "imdb": "tt0457939",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holiday",
+  "year": 2006
+ },
  "holiday|2026|diaz,law,meyers,winslet": {
   "checked": "2026-11-21T09:42:19",
   "imdb": "tt0457939",
@@ -2876,6 +2917,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZmJjNjgwYzUtMjY2MC00NzJmLTgzOTQtM2E4YzYyMGViM2YzXkEyXkFqcGc@._V1_.jpg",
   "title": "How Deep Is Your Love",
   "year": 2025
+ },
+ "how the grinch stole christmas|2001|carrey,howard,momsen,tambor": {
+  "checked": "2026-11-22T10:17:54",
+  "imdb": "tt0170016",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDFhMjEwOWItYmYxNy00NjIxLWFiMmUtNjU5ZDFjNzYwY2I2XkEyXkFqcGc@._V1_.jpg",
+  "title": "How the Grinch Stole Christmas",
+  "year": 2000
  },
  "how the grinch stole christmas||": {
   "checked": "2026-11-15T10:47:36",
@@ -3259,6 +3307,12 @@
  "jane schoenbrun public access afterworld|2026|schoenbrun": {
   "checked": "2026-11-09T09:01:43"
  },
+ "jet lag the game hide seek italy|2026|chase,denby,doyle": {
+  "checked": "2026-11-22T10:17:52"
+ },
+ "jet lag the game hide seek italy||": {
+  "checked": "2026-11-22T10:17:58"
+ },
  "jimi plays berkeley||": {
   "checked": "2026-11-13T09:02:11",
   "imdb": "tt0245184",
@@ -3299,6 +3353,13 @@
   "imdb": "tt32321285",
   "poster": "https://m.media-amazon.com/images/M/MV5BNmJhNWQ1NWUtMDhkMi00NmIxLTk5ZGItY2JkOTQ3NTE0OWY3XkEyXkFqcGc@._V1_.jpg",
   "title": "Josephine",
+  "year": 2026
+ },
+ "kaledu nelaukiant|2026|butkus,cipkus,delininkaityte,vidmantas": {
+  "checked": "2026-11-22T10:17:50",
+  "imdb": "tt45116436",
+  "poster": null,
+  "title": "Kaledu nelaukiant",
   "year": 2026
  },
  "karaoke murder|2026|an,dung,hoang,nghia": {
@@ -3783,6 +3844,13 @@
   "title": "Marie Antoinette",
   "year": 2006
  },
+ "masters of the universe|2026|brie,galitzine,knight,mendes": {
+  "checked": "2026-11-22T10:17:55",
+  "imdb": "tt0427340",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Masters of the Universe",
+  "year": 2026
+ },
  "match|2026|barnes,burruchaga,cabral,giusti": {
   "checked": "2026-11-20T09:01:37",
   "imdb": "tt41593328",
@@ -3813,6 +3881,9 @@
  },
  "matloob aelian|2026|gharieb,khater,sabri,tony": {
   "checked": "2026-10-22T22:26:26"
+ },
+ "maverick epic adventures of david lean|2026|thompson": {
+  "checked": "2026-11-22T10:17:47"
  },
  "maverick the epic adventures of david lean|2026|": {
   "checked": "2026-11-05T15:22:32",
@@ -4013,6 +4084,9 @@
   "title": "The Mummy Returns",
   "year": 2001
  },
+ "muppet christmas carol 35mm|2026|caine,henson,mackintosh,oz": {
+  "checked": "2026-11-22T10:17:57"
+ },
  "muppet christmas carol|2026|cain,fox,goelz,henson": {
   "checked": "2026-11-21T09:42:24",
   "imdb": "tt0104940",
@@ -4121,6 +4195,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMGMzZGI2ZDEtOTVlYy00ZDBiLTgxZjctZTdmNGYxMWI5YmJjXkEyXkFqcGc@._V1_.jpg",
   "title": "(ne)tobuli melagiai",
   "year": 2026
+ },
+ "neverending story||hathaway,oliver,petersen,stronach": {
+  "checked": "2026-11-22T10:17:56",
+  "imdb": "tt0088323",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE0Y2E0NGYtYzRmMy00ZDRjLTk1NDItNjZjYTMyMmJjMGYxXkEyXkFqcGc@._V1_.jpg",
+  "title": "The NeverEnding Story",
+  "year": 1984
  },
  "nff 2026 animated shorts||": {
   "checked": "2026-11-01T09:20:48",
@@ -4286,7 +4367,7 @@
   "checked": "2026-11-04T09:02:19"
  },
  "odyssey the imax experience|2026|damon,holland,nolan,theron": {
-  "checked": "2026-10-22T22:26:28"
+  "checked": "2026-11-22T10:17:55"
  },
  "odyssey|2026|damon,hathaway,holland,nolan": {
   "checked": "2026-10-22T22:26:30",
@@ -4337,6 +4418,13 @@
   "imdb": "tt34515768",
   "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5YzNiNjYtNjEyOS00ZjcxLWJiZWQtNjlhNmYzNThlZmIyXkEyXkFqcGc@._V1_.jpg",
   "title": "OM Chapter 1: Udhiram - The Blood Wood",
+  "year": 2026
+ },
+ "once upon a time in suffolk||": {
+  "checked": "2026-11-22T10:17:59",
+  "imdb": "tt27413743",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgwYjg5OWMtMzBlNy00Y2M3LWE0MWEtNzNkNzJmYjUyOWZhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Once Upon a Time in Suffolk",
   "year": 2026
  },
  "one in a million|2026|azzam": {
@@ -5054,6 +5142,13 @@
   "title": "The Restoration at Grayson Manor",
   "year": 2025
  },
+ "rff 2026 12 08 east of bucharest|2026|andreescu,corban,porumboiu,sapdaru": {
+  "checked": "2026-11-22T10:17:49",
+  "imdb": "tt0809407",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzVjOGVmMTMtMWRjNy00Yjk1LTllMWYtMzZlODllZTQ5MDQ5XkEyXkFqcGc@._V1_.jpg",
+  "title": "12:08 East of Bucharest",
+  "year": 2006
+ },
  "rff 2026 3 days in september|2026|giurgiu,mericoffer,oprea,vasile": {
   "checked": "2026-11-21T09:42:18",
   "imdb": "tt39168113",
@@ -5158,6 +5253,9 @@
  "sandbox showcase||": {
   "checked": "2026-11-12T15:56:11"
  },
+ "santa contest|2026|bardon,han,sun,yantzi": {
+  "checked": "2026-11-22T10:17:44"
+ },
  "santosh 2025 from short to long form||": {
   "checked": "2026-11-02T16:59:02"
  },
@@ -5258,6 +5356,9 @@
  },
  "screen unseen 2 november|2026|": {
   "checked": "2026-10-31T09:16:28"
+ },
+ "screenwriting salon||": {
+  "checked": "2026-11-22T10:18:00"
  },
  "secret screening 2nd nov|2026|": {
   "checked": "2026-10-30T09:01:49"
@@ -5508,6 +5609,13 @@
   "title": "Your Name.",
   "year": 2016
  },
+ "slava shooting with music|2026|morris,vakarchuk": {
+  "checked": "2026-11-22T10:17:46",
+  "imdb": "tt28989492",
+  "poster": null,
+  "title": "Shooting with Music",
+  "year": 2026
+ },
  "smurfs|2025|corden,ii,karliak,rihanna": {
   "checked": "2026-11-12T09:02:20",
   "imdb": "tt18069420",
@@ -5557,7 +5665,7 @@
   "year": 2026
  },
  "soundtracking a surprise film in conversation with jesse armstrong|2026|": {
-  "checked": "2026-11-14T09:33:05"
+  "checked": "2026-11-22T10:17:57"
  },
  "soy turkish|2026|abdullah,alexandre,arduc,buyukustun": {
   "checked": "2026-10-22T22:26:26"
@@ -5577,6 +5685,9 @@
  },
  "spider man brand new brand new day|2026|bernthal,cretton,holland,zendaya": {
   "checked": "2026-11-21T09:42:17"
+ },
+ "spider man brand new brand new day||cretton,holland,sink,zendaya": {
+  "checked": "2026-11-22T10:17:53"
  },
  "spider man brand new day|2026|batalon,cretton,sink,tillman": {
   "checked": "2026-10-22T22:26:26",
@@ -5680,6 +5791,13 @@
   "imdb": "tt28650488",
   "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_.jpg",
   "title": "The Super Mario Galaxy Movie",
+  "year": 2026
+ },
+ "supergirl|2026|alcock,gillespie,ridley,schoenaerts": {
+  "checked": "2026-11-22T10:17:54",
+  "imdb": "tt8814476",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQzNjU2MDMtNzgxOS00YzcxLWE2YjYtMzY3OTAyOGJlMmQ5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Supergirl",
   "year": 2026
  },
  "superworm||": {
@@ -6405,6 +6523,15 @@
   ],
   "released": "1983-02-04"
  },
+ "wd|tt0088323": {
+  "genres": [
+   "drama film",
+   "fantasy film",
+   "sword and sorcery film",
+   "children's film"
+  ],
+  "released": "1984-04-06"
+ },
  "wd|tt0088930": {
   "genres": [
    "crime film",
@@ -7053,6 +7180,15 @@
   ],
   "released": "2006-05-24"
  },
+ "wd|tt0427340": {
+  "genres": [
+   "fantasy film",
+   "action film",
+   "superhero film",
+   "adventure film"
+  ],
+  "released": "2026-05-18"
+ },
  "wd|tt0430357": {
   "genres": [
    "drama film",
@@ -7103,6 +7239,12 @@
    "Christmas film"
   ],
   "released": "2008-01-17"
+ },
+ "wd|tt0809407": {
+  "genres": [
+   "comedy film"
+  ],
+  "released": "2006-05-24"
  },
  "wd|tt0816692": {
   "genres": [
@@ -7725,6 +7867,10 @@
   ],
   "released": "2026-05-17"
  },
+ "wd|tt27413743": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt27419420": {
   "genres": [
    "martial arts film",
@@ -7737,6 +7883,16 @@
    "drama film"
   ],
   "released": "2026-02-17"
+ },
+ "wd|tt27613895": {
+  "genres": [
+   "comedy film",
+   "sport film",
+   "family film",
+   "basketball film",
+   "adventure film"
+  ],
+  "released": "2026-02-13"
  },
  "wd|tt27672817": {
   "genres": [],
@@ -7828,6 +7984,10 @@
    "documentary film"
   ],
   "released": "2026-01-01"
+ },
+ "wd|tt28989492": {
+  "genres": [],
+  "released": null
  },
  "wd|tt29002950": {
   "genres": [
@@ -9096,6 +9256,10 @@
   "genres": [],
   "released": null
  },
+ "wd|tt45116436": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt45368240": {
   "genres": [
    "documentary film"
@@ -9371,6 +9535,12 @@
   ],
   "released": "2018-01-21"
  },
+ "wd|tt7798632": {
+  "genres": [
+   "drama film"
+  ],
+  "released": "2025-08-30"
+ },
  "wd|tt7984734": {
   "genres": [
    "drama film",
@@ -9397,6 +9567,13 @@
    "drama film"
   ],
   "released": "2026-02-16"
+ },
+ "wd|tt8814476": {
+  "genres": [
+   "action film",
+   "superhero film"
+  ],
+  "released": "2026-06-22"
  },
  "wd|tt9067182": {
   "genres": [
