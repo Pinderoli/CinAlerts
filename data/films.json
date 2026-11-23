@@ -1,4 +1,11 @@
 {
+ "14th|2026|duvernay": {
+  "checked": "2026-11-23T19:11:17",
+  "imdb": "tt43682722",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE2YzRkZWMtZTIwNC00MGJkLTg0NDMtODQ3MWM4MDNiMzAwXkEyXkFqcGc@._V1_.jpg",
+  "title": "14th",
+  "year": 2026
+ },
  "2 aile arasinda|2026|acktan,evgar,gunaydn,ozyagclar": {
   "checked": "2026-11-21T09:42:23",
   "imdb": "tt43350807",
@@ -178,6 +185,13 @@
  },
  "all night horror madness 19||": {
   "checked": "2026-11-01T14:14:07"
+ },
+ "all of a sudden|2027|efira,hamaguchi,nagatsuka,okamoto": {
+  "checked": "2026-11-23T19:11:20",
+  "imdb": "tt36834996",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTY1ZjUwYzctY2E5My00MGRlLWI3N2MtZWRmYjlmNGY0MjcyXkEyXkFqcGc@._V1_.jpg",
+  "title": "All of a Sudden",
+  "year": 2026
  },
  "all rivers spill their stories to the sea|2026|finlay": {
   "checked": "2026-10-22T22:26:27",
@@ -570,7 +584,7 @@
   "year": 1977
  },
  "black is boundless seeds||": {
-  "checked": "2026-11-16T09:01:15"
+  "checked": "2026-11-23T19:11:28"
  },
  "blade ii||": {
   "checked": "2026-10-22T22:26:33",
@@ -1410,6 +1424,9 @@
  "city lights film gala|2026|": {
   "checked": "2026-11-09T09:02:09"
  },
+ "clapham buggies||": {
+  "checked": "2026-11-23T19:11:26"
+ },
  "clayface|2026|ackie,dencik,harries,watkins": {
   "checked": "2026-10-22T22:26:30",
   "imdb": "tt34890576",
@@ -1451,6 +1468,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNGJkZmZlYTYtODQ1ZC00N2JiLWIxMWYtZTE4ZDMxZjQyZTAzXkEyXkFqcGc@._V1_.jpg",
   "title": "Cliffhanger",
   "year": 1993
+ },
+ "clubroom the songs of ennio morricone by man child||": {
+  "checked": "2026-11-23T19:11:27"
  },
  "clue||": {
   "checked": "2026-11-14T09:33:09",
@@ -1709,6 +1729,9 @@
  "disney s hexed||": {
   "checked": "2026-11-21T09:42:27"
  },
+ "disney s hexed||jones,steinfeld,ullman,veerasunthorn": {
+  "checked": "2026-11-23T19:11:20"
+ },
  "doctor who day the satan pit|2026|piper,strong,tennant,v": {
   "checked": "2026-11-17T16:51:22"
  },
@@ -1839,6 +1862,13 @@
   "title": "The Drama",
   "year": 2026
  },
+ "drama||": {
+  "checked": "2026-11-23T19:11:28",
+  "imdb": "tt33071426",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Drama",
+  "year": 2026
+ },
  "drink and dine hereditary||": {
   "checked": "2026-10-22T22:26:33",
   "imdb": "tt7784604",
@@ -1891,6 +1921,9 @@
  },
  "dune part one reissue|2026|chalamet,ferguson,isaac,villeneuve": {
   "checked": "2026-11-21T09:42:22"
+ },
+ "dune part one||": {
+  "checked": "2026-11-23T19:11:30"
  },
  "dune part two reissue|2026|chalamet,ferguson,villeneuve,zendaya": {
   "checked": "2026-11-21T09:42:20"
@@ -2082,7 +2115,7 @@
   "checked": "2026-11-06T14:57:08"
  },
  "events placeholder 1 hour 30 mins||": {
-  "checked": "2026-11-07T13:53:25"
+  "checked": "2026-11-23T19:11:25"
  },
  "everest the other side|2026|chin,morrison,nelson": {
   "checked": "2026-10-27T09:11:29",
@@ -2813,6 +2846,20 @@
   "title": "The Holdovers",
   "year": 2023
  },
+ "holdovers||": {
+  "checked": "2026-11-23T19:11:28",
+  "imdb": "tt14849194",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holdovers",
+  "year": 2023
+ },
+ "holiday|2025|black,diaz,meyers,winslet": {
+  "checked": "2026-11-23T19:11:20",
+  "imdb": "tt0457939",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holiday",
+  "year": 2006
+ },
  "holiday|2025|diaz,law,meyers,winslet": {
   "checked": "2026-11-20T16:01:17",
   "imdb": "tt0457939",
@@ -2848,6 +2895,13 @@
   "title": "Home Alone 2: Lost in New York",
   "year": 1992
  },
+ "home alone 2 lost in new york|2026|columbus,hara,heard,pesci": {
+  "checked": "2026-11-23T19:11:18",
+  "imdb": "tt0104431",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGEyYzRmNzYtYzJjZi00ZjhlLWJiNDktYzZhNTgxMzc1NThlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Home Alone 2: Lost in New York",
+  "year": 1992
+ },
  "home alone|2018|columbus,culkin,hara,pesci": {
   "checked": "2026-11-08T14:14:43",
   "imdb": "tt0099785",
@@ -2857,6 +2911,13 @@
  },
  "home alone|2026|candy,columbus,culkin,heard": {
   "checked": "2026-11-15T10:47:36",
+  "imdb": "tt0099785",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_.jpg",
+  "title": "Home Alone",
+  "year": 1990
+ },
+ "home alone|2026|candy,columbus,hara,pesci": {
+  "checked": "2026-11-23T19:11:17",
   "imdb": "tt0099785",
   "poster": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_.jpg",
   "title": "Home Alone",
@@ -3685,6 +3746,9 @@
  "little quiz||": {
   "checked": "2026-11-01T14:14:06"
  },
+ "little theatre s 90th mr deeds goes to town||": {
+  "checked": "2026-11-23T19:11:22"
+ },
  "live music night||": {
   "checked": "2026-11-20T09:01:45"
  },
@@ -3892,6 +3956,9 @@
   "title": "Maverick: The Epic Adventures of David Lean",
   "year": 2026
  },
+ "medicinema the cat in the hat||": {
+  "checked": "2026-11-23T19:11:25"
+ },
  "meeting ourselves in film workshop||": {
   "checked": "2026-10-30T09:02:11"
  },
@@ -3988,6 +4055,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMjRjMjUwM2QtMzk1OC00MGU4LTlmZTEtNTJjYWIzNDFlMDZhXkEyXkFqcGc@._V1_.jpg",
   "title": "Minotaur",
   "year": 2026
+ },
+ "miracle on 34th street|2026|gwenn,hara,payne,seaton": {
+  "checked": "2026-11-23T19:11:18",
+  "imdb": "tt0039628",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZThmOTU4MzktNzg4Yy00NGRhLThlZjQtYjA1MjY2Zjg0N2RiXkEyXkFqcGc@._V1_.jpg",
+  "title": "Miracle on 34th Street",
+  "year": 1947
  },
  "miss jobson||": {
   "checked": "2026-10-22T22:26:34",
@@ -4121,6 +4195,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BYjU5NGQ4ZGMtNmFkYi00Yjg3LWFmM2MtODEyYzMxZmVlZjM4XkEyXkFqcGc@._V1_.jpg",
   "title": "Mysaa",
   "year": 2026
+ },
+ "mystery birthday preview||": {
+  "checked": "2026-11-23T19:11:24"
  },
  "mystery film||": {
   "checked": "2026-11-16T09:01:14",
@@ -4570,6 +4647,9 @@
   "title": "Ozzy & Black Sabbath: Back to the Beginning",
   "year": 2026
  },
+ "page of madness live score||": {
+  "checked": "2026-11-23T19:11:27"
+ },
  "palestine comedy club|2026|aliabdallah,shammas,shehada,swity": {
   "checked": "2026-10-26T09:01:23",
   "imdb": "tt35665999",
@@ -4609,6 +4689,13 @@
   "checked": "2026-11-15T10:47:35",
   "imdb": "tt34385689",
   "poster": "https://m.media-amazon.com/images/M/MV5BZWU2MTI0M2MtZjc3My00MzhlLWJkMDMtN2E4ODNlYTg3ODJlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Paper Tiger",
+  "year": 2026
+ },
+ "paper tiger||": {
+  "checked": "2026-11-23T19:11:23",
+  "imdb": "tt34385689",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWRlNDNmNGQtY2ExMy00OWI4LTllNWQtZjA5YWQzZmNlYmI4XkEyXkFqcGc@._V1_.jpg",
   "title": "Paper Tiger",
   "year": 2026
  },
@@ -4678,6 +4765,13 @@
   "title": "The People's Emergency Briefing",
   "year": 2026
  },
+ "peppa pig festival of fun||": {
+  "checked": "2026-11-23T19:11:29",
+  "imdb": "tt10112466",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNhMzlmODktMjRmMy00OGI4LWFhNzUtNjJkZjRmZmUyZmQ4XkEyXkFqcGc@._V1_.jpg",
+  "title": "Peppa Pig: Festival of Fun",
+  "year": 2019
+ },
  "peter asher everywhere man|2026|faithfull,geller,mccartney,williams": {
   "checked": "2026-10-22T22:26:26",
   "imdb": "tt38066059",
@@ -4717,7 +4811,7 @@
   "checked": "2026-11-22T15:12:41"
  },
  "pip and posy the cinema show||": {
-  "checked": "2026-11-16T16:56:18"
+  "checked": "2026-11-23T19:11:24"
  },
  "polar express|2004|deezen,hanks,zemeckis": {
   "checked": "2026-11-10T09:02:25",
@@ -5156,12 +5250,26 @@
   "title": "3 Days in September",
   "year": 2026
  },
+ "rff 2026 atlas of the universe|2026|donciu,grigore,mild,negoescu": {
+  "checked": "2026-11-23T19:11:19",
+  "imdb": "tt28084471",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjYjRiYWQtZTg0ZS00NjIyLTgyYzEtNTIzMTNkYjY2NTUwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Atlas of the Universe",
+  "year": 2026
+ },
  "rff 2026 on our own|2026|ducica,furtuna,jurgiu,vraja": {
   "checked": "2026-11-20T09:01:40",
   "imdb": "tt34766794",
   "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4NzVmMjktZTQ5Yy00OWQ3LWEyZGUtNTI3OGExY2U3NTIyXkEyXkFqcGc@._V1_.jpg",
   "title": "On Our Own",
   "year": 2026
+ },
+ "rff 2026 reconstruction|2026|constantin,gaitan,mihaita,pintilie": {
+  "checked": "2026-11-23T19:11:20",
+  "imdb": "tt0063493",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk5M2VjMjAtMmI1NS00YTg2LThmOGQtMGVlMTJhNzEyYzc1XkEyXkFqcGc@._V1_.jpg",
+  "title": "Reconstruction",
+  "year": 1968
  },
  "rff 2026 you don t belong here|2026|butanescu,conovaru,serban,vancica": {
   "checked": "2026-11-19T16:31:07",
@@ -5686,6 +5794,9 @@
  "spider man brand new brand new day|2026|bernthal,cretton,holland,zendaya": {
   "checked": "2026-11-21T09:42:17"
  },
+ "spider man brand new brand new day|2026|cretton,holland,sink,zendaya": {
+  "checked": "2026-11-23T19:11:22"
+ },
  "spider man brand new brand new day||cretton,holland,sink,zendaya": {
   "checked": "2026-11-22T10:17:53"
  },
@@ -5861,6 +5972,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOGJjZDEwMDMtOTFiMS00MjRmLWJhODgtYzVkNjY3NzllNjY4XkEyXkFqcGc@._V1_.jpg",
   "title": "Teambuilding 2",
   "year": 2026
+ },
+ "tech run test||": {
+  "checked": "2026-11-23T19:11:26"
  },
  "tell me everything||cohen,mazor,rosenthal,tako": {
   "checked": "2026-11-14T09:33:00",
@@ -6244,6 +6358,15 @@
   ],
   "released": "1944-01-01"
  },
+ "wd|tt0039628": {
+  "genres": [
+   "drama film",
+   "fantasy film",
+   "comedy film",
+   "Christmas film"
+  ],
+  "released": "1947-01-01"
+ },
  "wd|tt0039953": {
   "genres": [],
   "released": null
@@ -6328,6 +6451,12 @@
    "drama film"
   ],
   "released": "1966-01-01"
+ },
+ "wd|tt0063493": {
+  "genres": [
+   "drama film"
+  ],
+  "released": "1970-01-05"
  },
  "wd|tt0064541": {
   "genres": [
@@ -7285,6 +7414,12 @@
   ],
   "released": "2006-09-02"
  },
+ "wd|tt10112466": {
+  "genres": [
+   "family film"
+  ],
+  "released": "2019-04-05"
+ },
  "wd|tt10370710": {
   "genres": [
    "drama film",
@@ -7933,6 +8068,10 @@
    "epic film"
   ],
   "released": "2026-11-08"
+ },
+ "wd|tt28084471": {
+  "genres": [],
+  "released": "2026-01-01"
  },
  "wd|tt28088049": {
   "genres": [
@@ -9210,6 +9349,12 @@
  "wd|tt43656794": {
   "genres": [],
   "released": null
+ },
+ "wd|tt43682722": {
+  "genres": [
+   "documentary film"
+  ],
+  "released": "2026-10-09"
  },
  "wd|tt43701486": {
   "genres": [
