@@ -480,6 +480,13 @@
  "bebefinn sing along movie|2026|byeon,emmerson,i,kyoung": {
   "checked": "2026-10-22T22:26:26"
  },
+ "behemoth||": {
+  "checked": "2026-11-25T17:55:36",
+  "imdb": "tt36415529",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDMzOGVkMDktZDg3Zi00MDk2LWJjN2QtZjdmMTg3NDE0YjdlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Behemoth!",
+  "year": 2026
+ },
  "being heumann|2026|brien,delaney,heder,ruffalo": {
   "checked": "2026-11-10T09:02:23",
   "imdb": "tt15095848",
@@ -2364,7 +2371,7 @@
   "year": 2026
  },
  "festive fun with peppa|2026|": {
-  "checked": "2026-11-15T14:40:16"
+  "checked": "2026-11-25T17:55:35"
  },
  "filipinana|2026|agoto,guzman,hooshmand,manuel": {
   "checked": "2026-11-17T16:51:19",
@@ -4636,10 +4643,10 @@
   "year": 2026
  },
  "nutcracker|2026|clarke,hay,magri": {
-  "checked": "2026-11-18T09:02:25"
+  "checked": "2026-11-25T17:55:35"
  },
  "nutcracker|2026|clarke,hay,magri,wright": {
-  "checked": "2026-11-18T09:02:26"
+  "checked": "2026-11-25T17:55:35"
  },
  "nutcracker|2026|hay,nakao,tsembenhoi": {
   "checked": "2026-11-18T09:02:25"
@@ -6644,6 +6651,13 @@
  },
  "vinyl sisters||": {
   "checked": "2026-11-12T15:56:11"
+ },
+ "violent night 2|2026|bell,harbour,harris,wirkola": {
+  "checked": "2026-11-25T17:55:35",
+  "imdb": "tt32432428",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZmRhOTQtZDE4ZS00NmNlLWIwNjgtZTdkY2I4NjRmMjY5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Violent Night 2",
+  "year": 2026
  },
  "voyage to the bottom of the sea||": {
   "checked": "2026-10-22T22:26:33",
@@ -8750,6 +8764,13 @@
   ],
   "released": "2026-08-18"
  },
+ "wd|tt32432428": {
+  "genres": [
+   "action comedy film",
+   "Christmas film"
+  ],
+  "released": "2026-12-03"
+ },
  "wd|tt32432654": {
   "genres": [
    "romance film",
@@ -9164,6 +9185,12 @@
    "historical film"
   ],
   "released": "2026-10-22"
+ },
+ "wd|tt36415529": {
+  "genres": [
+   "drama film"
+  ],
+  "released": "2026-10-02"
  },
  "wd|tt36583977": {
   "genres": [
