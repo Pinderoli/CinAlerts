@@ -16,6 +16,13 @@
  "2 aile arasnda|2026|acktan,evgar,gunaydn,yakut": {
   "checked": "2026-11-21T09:42:16"
  },
+ "2001 a space odyssey|2018|dullea,kubrick,lockwood,sylvester": {
+  "checked": "2026-11-25T09:00:56",
+  "imdb": "tt0062622",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_.jpg",
+  "title": "2001: A Space Odyssey",
+  "year": 1968
+ },
  "2026 classic secret screaming|2026|": {
   "checked": "2026-10-30T09:01:49"
  },
@@ -803,8 +810,14 @@
   "title": "Carol",
   "year": 2015
  },
+ "cat in the hat 2026 in aid of medicinema||berry,carloni,gomez,hader": {
+  "checked": "2026-11-25T09:00:56"
+ },
  "cat in the hat in aid of medicinema|2026|carloni,esposito,ferrera,hader": {
   "checked": "2026-11-24T09:02:08"
+ },
+ "cat in the hat medicinema|2026|berry,carloni,gomez,hader": {
+  "checked": "2026-11-25T09:00:56"
  },
  "cat in the hat|2026|berry,carloni,gomez,hader": {
   "checked": "2026-11-21T09:42:18",
@@ -1561,6 +1574,9 @@
  "conferencing 4 hour|2021|": {
   "checked": "2026-11-04T09:02:20"
  },
+ "cosmic samson malayalam|2026|joseph,pradeep,puthren,salim": {
+  "checked": "2026-11-25T09:00:57"
+ },
  "cosmic samson|2026|george,jithu,joseph,pradeep": {
   "checked": "2026-11-24T09:02:17",
   "imdb": "tt39139918",
@@ -1573,6 +1589,13 @@
   "imdb": "tt39139918",
   "poster": "https://m.media-amazon.com/images/M/MV5BOTUyMDY2YmMtMzQ3Yy00ZjkzLTk5ZDItMjc1ZDNiOGI4NDBlXkEyXkFqcGc@._V1_.jpg",
   "title": "Cosmic Samson",
+  "year": 2026
+ },
+ "coward|2027|campagne,dhont,macchia": {
+  "checked": "2026-11-25T09:00:54",
+  "imdb": "tt39328391",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZiNjNmNWMtNTIxNy00OTcwLThjYjQtMTQ1ZmVmZTgyODU5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Coward",
   "year": 2026
  },
  "coyote vs acme|2026|bell,cena,condor,green": {
@@ -2255,6 +2278,13 @@
   "title": "The Eyes of Ghana",
   "year": 2025
  },
+ "eyes wide shut|2026|cruise,field,kidman,kubrick": {
+  "checked": "2026-11-25T09:00:54",
+  "imdb": "tt0120663",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_.jpg",
+  "title": "Eyes Wide Shut",
+  "year": 1999
+ },
  "fallen angels by noel coward|2026|byrne,chimo,ellis,hara": {
   "checked": "2026-10-22T22:26:30"
  },
@@ -2708,6 +2738,9 @@
   "title": "Pan's Labyrinth",
   "year": 2006
  },
+ "gunmaaster g9 hindi|2026|datt,deshmukh,hashmi,kaur": {
+  "checked": "2026-11-25T09:00:58"
+ },
  "gunmaaster g9|2026|datt,deshmukh,hashmi,khurana": {
   "checked": "2026-11-24T09:02:17",
   "imdb": "tt37539573",
@@ -2998,6 +3031,13 @@
   "title": "The Holiday",
   "year": 2006
  },
+ "holiday|2026|black,law,meyers,sewell": {
+  "checked": "2026-11-25T09:00:55",
+  "imdb": "tt0457939",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holiday",
+  "year": 2006
+ },
  "holiday|2026|black,law,meyers,winslet": {
   "checked": "2026-11-22T10:17:58",
   "imdb": "tt0457939",
@@ -3123,6 +3163,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZDFhMjEwOWItYmYxNy00NjIxLWFiMmUtNjU5ZDFjNzYwY2I2XkEyXkFqcGc@._V1_.jpg",
   "title": "How the Grinch Stole Christmas",
   "year": 2000
+ },
+ "how the grinch stole||": {
+  "checked": "2026-11-25T09:01:01"
  },
  "how to rob a bank|2026|davidson,hoult,kravitz,leitch": {
   "checked": "2026-11-03T14:59:21",
@@ -3602,6 +3645,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BYjhjOTZmY2QtNDcyYS00Y2ViLTg3NTMtYTUyNjhlMGIwNmZlXkEyXkFqcGc@._V1_.jpg",
   "title": "Kind Hearts and Coronets",
   "year": 1949
+ },
+ "king of salangpur gujarati|2026|deshaval,pandya,saloni": {
+  "checked": "2026-11-25T09:00:58"
  },
  "king of salangpur|2026|deshaval,panchal,pandya,soneji": {
   "checked": "2026-11-24T09:02:17",
@@ -4107,6 +4153,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZGUwYmUyN2YtOTlkMS00ZDUzLTk1NGUtMWRkZDFiOWQ4NGYxXkEyXkFqcGc@._V1_.jpg",
   "title": "Maverick: The Epic Adventures of David Lean",
   "year": 2026
+ },
+ "mayan malayalam|2026|gopinath,jayasurya,jose,raj": {
+  "checked": "2026-11-25T09:00:57"
  },
  "mayan|2026|gopinath,jayasurya,jose,raj": {
   "checked": "2026-11-24T09:02:17"
@@ -5585,6 +5634,9 @@
  "sandbox showcase||": {
   "checked": "2026-11-12T15:56:11"
  },
+ "sanjog punjabi|2026|gargi,gill,raikoti,sharma": {
+  "checked": "2026-11-25T09:00:59"
+ },
  "sanjog|2026|anmol,begowal,chahal,gargi": {
   "checked": "2026-11-24T09:02:18",
   "imdb": "tt48462498",
@@ -6031,6 +6083,9 @@
  },
  "spider man brand new brand new day|2026|": {
   "checked": "2026-11-21T09:42:15"
+ },
+ "spider man brand new brand new day|2026|batalon,cretton,sink,tillman": {
+  "checked": "2026-11-25T09:00:53"
  },
  "spider man brand new brand new day|2026|bernthal,cretton,holland,zendaya": {
   "checked": "2026-11-21T09:42:17"
@@ -6618,6 +6673,13 @@
   "title": "Vrusshabha",
   "year": 2025
  },
+ "wd|tt0035583": {
+  "genres": [
+   "romantic comedy",
+   "musical film"
+  ],
+  "released": "1942-01-01"
+ },
  "wd|tt0036775": {
   "genres": [
    "drama film",
@@ -6720,6 +6782,15 @@
    "drama film"
   ],
   "released": "1966-01-01"
+ },
+ "wd|tt0062622": {
+  "genres": [
+   "mystery film",
+   "epic film",
+   "arthouse science fiction film",
+   "space adventure film"
+  ],
+  "released": "1968-04-02"
  },
  "wd|tt0063493": {
   "genres": [
@@ -7312,6 +7383,21 @@
    "thriller film"
   ],
   "released": "1998-01-01"
+ },
+ "wd|tt0120663": {
+  "genres": [
+   "mystery film",
+   "erotic film",
+   "drama film",
+   "melodrama",
+   "erotic thriller",
+   "thriller film",
+   "psychological thriller film",
+   "erotic drama film",
+   "Christmas film",
+   "psychological drama film"
+  ],
+  "released": "1999-07-13"
  },
  "wd|tt0129167": {
   "genres": [
@@ -10108,6 +10194,12 @@
  "we are born good cantonese|2026|chung,liew,pang,yeung": {
   "checked": "2026-11-21T09:42:16"
  },
+ "we are born good cantonese|2026|chung,pang,yeung": {
+  "checked": "2026-11-25T09:00:59"
+ },
+ "we are born good cantonese|2026|pang,yeung,ying,yip": {
+  "checked": "2026-11-25T09:00:52"
+ },
  "we re going on a bear hunt the tiger who came to tea|2026|colman,ferris,harrison,williams": {
   "checked": "2026-10-30T13:59:36"
  },
@@ -10364,6 +10456,9 @@
   "title": "Wuthering Heights",
   "year": 2026
  },
+ "yeh prem mol liya hindi|2026|barjatya,kher,khurrana,sharvari": {
+  "checked": "2026-11-25T09:00:59"
+ },
  "yeh prem mol liya|2026|barjatya,kher,khurrana,wagh": {
   "checked": "2026-11-24T09:02:17",
   "imdb": "tt27124947",
@@ -10426,6 +10521,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
   "title": "You Can See Everything",
   "year": 2026
+ },
+ "you were never lovelier||": {
+  "checked": "2026-11-25T09:01:00",
+  "imdb": "tt0035583",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ViOTU0ZWQtMDE4Zi00ZTEyLWI5YTctMmZmNjIyMzlhNDU2XkEyXkFqcGc@._V1_.jpg",
+  "title": "You Were Never Lovelier",
+  "year": 1942
  },
  "your mother your mother your mother|2026|ali,cho,esposito,tariq": {
   "checked": "2026-11-11T15:03:12",
