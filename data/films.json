@@ -68,13 +68,13 @@
   "year": 2015
  },
  "70 syaal punjabi|2026|dhillon,singh": {
-  "checked": "2026-11-18T09:02:34"
+  "checked": "2026-11-26T09:02:08"
  },
  "70 syaal|2026|amby,anmol,dhillon,singh": {
-  "checked": "2026-11-18T09:02:19"
+  "checked": "2026-11-26T09:01:59"
  },
  "70 syaal|2026|amby,dhillon,singh": {
-  "checked": "2026-11-18T09:02:27"
+  "checked": "2026-11-26T09:02:04"
  },
  "aadarsha kutumbam house no 47 ak 47|2026|daggubati,pethuraj,shetty,srinivas": {
   "checked": "2026-10-27T09:11:15",
@@ -93,10 +93,10 @@
   "checked": "2026-11-18T09:02:22"
  },
  "aakasamlo oka tara malayalam|2026|haasan,sadineni,salmaan,veeravalli": {
-  "checked": "2026-11-18T09:02:34"
+  "checked": "2026-11-26T09:02:09"
  },
  "aakasamlo oka tara telugu|2026|deepak,haasan,sadineni,salmaan": {
-  "checked": "2026-11-18T09:02:18"
+  "checked": "2026-11-26T09:01:58"
  },
  "aakasamlo oka tara telugu|2026|haasan,sadineni,salmaan,veeravalli": {
   "checked": "2026-11-18T09:02:34"
@@ -279,6 +279,13 @@
   "title": "Starlight Express",
   "year": 2003
  },
+ "animal farm|2026|close,harrelson,rogen,serkis": {
+  "checked": "2026-11-26T09:02:05",
+  "imdb": "tt2467700",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2U5YTliZDktZWFhZS00ZDI3LTk5MWMtMDFlMjA3MDI2MGMwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Animal Farm",
+  "year": 2025
+ },
  "animol|2026|baliuk,graham,nyuot,walters": {
   "checked": "2026-10-27T09:11:08",
   "imdb": "tt33995791",
@@ -322,6 +329,13 @@
  },
  "arrival|2016|adams,renner,villeneuve,whitaker": {
   "checked": "2026-11-14T09:32:59",
+  "imdb": "tt2543164",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg",
+  "title": "Arrival",
+  "year": 2016
+ },
+ "arrival||": {
+  "checked": "2026-11-26T09:02:12",
   "imdb": "tt2543164",
   "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg",
   "title": "Arrival",
@@ -396,7 +410,7 @@
   "year": 2026
  },
  "bachelor party d eux malayalam|2026|boban,gafoor,neerad,thomas": {
-  "checked": "2026-11-18T09:02:33"
+  "checked": "2026-11-26T09:02:09"
  },
  "bachelor party d eux|2026|boban,naslen,neerad,thomas": {
   "checked": "2026-11-10T09:02:27",
@@ -674,7 +688,7 @@
   "year": 2026
  },
  "bouma malayalam|2026|babu,pothan,surya,vineeth": {
-  "checked": "2026-11-18T09:02:35"
+  "checked": "2026-11-26T09:02:10"
  },
  "bouma|2026|babu,balan,pothan,surya": {
   "checked": "2026-11-16T09:01:07",
@@ -1581,6 +1595,13 @@
  "conferencing 4 hour|2021|": {
   "checked": "2026-11-04T09:02:20"
  },
+ "conversation|2026|coppola,ford,forrest,hackman": {
+  "checked": "2026-11-26T09:02:04",
+  "imdb": "tt0071360",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmYyZmYwZmItMDQ1My00MTc3LTk4MDktZTcxMzYyNWU3MWZhXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Conversation",
+  "year": 1974
+ },
  "cosmic samson malayalam|2026|joseph,pradeep,puthren,salim": {
   "checked": "2026-11-25T09:00:57"
  },
@@ -1745,6 +1766,13 @@
   "title": "Die Hard",
   "year": 1988
  },
+ "die hard|2026|bedelia,mctiernan,rickman,willis": {
+  "checked": "2026-11-26T09:02:04",
+  "imdb": "tt0095016",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Die Hard",
+  "year": 1988
+ },
  "die hard||": {
   "checked": "2026-11-21T09:42:27",
   "imdb": "tt0095016",
@@ -1848,7 +1876,7 @@
   "checked": "2026-11-24T18:49:12"
  },
  "doctor who the satan pit|2026|piper,strong,tennant": {
-  "checked": "2026-11-18T09:02:23"
+  "checked": "2026-11-26T09:02:03"
  },
  "doctor who the satan pit||": {
   "checked": "2026-11-24T18:49:12"
@@ -2054,6 +2082,13 @@
   "title": "Dune: Part Two",
   "year": 2024
  },
+ "dune part two||": {
+  "checked": "2026-11-26T09:02:12",
+  "imdb": "tt15239678",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+  "title": "Dune: Part Two",
+  "year": 2024
+ },
  "dune parts one and two double bill|2026|": {
   "checked": "2026-11-22T10:17:48"
  },
@@ -2186,7 +2221,7 @@
   "year": 2026
  },
  "ene repeat telugu|2026|dhaassyam,gomatam,maganti,sen": {
-  "checked": "2026-11-18T09:02:35"
+  "checked": "2026-11-26T09:02:10"
  },
  "ene repeat|2026|dhaassyam,gomatam,sen,srinath": {
   "checked": "2026-11-10T09:02:27",
@@ -2797,7 +2832,7 @@
   "year": 2026
  },
  "hadoota arabic|2026|ashraf,azim,helmy,khalil": {
-  "checked": "2026-11-18T09:02:36"
+  "checked": "2026-11-26T09:02:11"
  },
  "hadoota|2026|ashraf,azim,farag,masri": {
   "checked": "2026-11-12T09:02:20",
@@ -2828,7 +2863,7 @@
   "year": 2026
  },
  "hail mary malayalam|2026|boban,revikumar,sithara,venjaramoodu": {
-  "checked": "2026-11-18T09:02:33"
+  "checked": "2026-11-26T09:02:06"
  },
  "hail mary|2026|boban,forrt,revikumar,shah": {
   "checked": "2026-11-18T09:02:27",
@@ -3603,6 +3638,13 @@
   "poster": null,
   "title": "Kaledu nelaukiant",
   "year": 2026
+ },
+ "kangaroo|2026|corr,house,whiteley,woods": {
+  "checked": "2026-11-26T09:02:05",
+  "imdb": "tt20204886",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTRjYzFkZjQtYWFjZC00ODhhLWJlMTgtOTlmMmRkYTI5MzE5XkEyXkFqcGc@._V1_.jpg",
+  "title": "Kangaroo",
+  "year": 2025
  },
  "karaoke murder|2026|an,dung,hoang,nghia": {
   "checked": "2026-10-22T22:26:28",
@@ -4459,7 +4501,7 @@
   "year": 1994
  },
  "nasza rewolucja polish|2026|domalewski,jakubik,koman,poplawska": {
-  "checked": "2026-11-18T09:02:34"
+  "checked": "2026-11-26T09:02:08"
  },
  "nasza rewolucja|2026|domalewski,jakubik,koman,popawska": {
   "checked": "2026-11-18T09:02:27",
@@ -4649,7 +4691,7 @@
   "checked": "2026-11-25T17:55:35"
  },
  "nutcracker|2026|hay,nakao,tsembenhoi": {
-  "checked": "2026-11-18T09:02:25"
+  "checked": "2026-11-26T09:02:03"
  },
  "obsession|2026|barker,ii,navarrette,tomlinson": {
   "checked": "2026-10-29T09:01:43",
@@ -4724,13 +4766,13 @@
   "year": 1969
  },
  "om chapter 1 udhiram the blood wood tamil|2026|dhanush,mammooty,pallavi,periasamy": {
-  "checked": "2026-11-18T09:02:33"
+  "checked": "2026-11-26T09:02:06"
  },
  "om chapter 1 udhiram the blood wood tamil|2026|mammooty,pallavi,periasamy,shah": {
-  "checked": "2026-11-18T09:02:19"
+  "checked": "2026-11-26T09:01:58"
  },
  "om chapter 1 udhiram the blood wood telugu|2026|mammooty,pallavi,periasamy,shah": {
-  "checked": "2026-11-18T09:02:17"
+  "checked": "2026-11-26T09:01:59"
  },
  "om chapter 1 udhiram the blood wood|2026|dhanush,indrans,kutty,periasamy": {
   "checked": "2026-11-14T09:33:00",
@@ -5366,19 +5408,19 @@
   "checked": "2026-10-24T09:19:11"
  },
  "ramayana hindi|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-18T09:02:14"
+  "checked": "2026-11-26T09:01:57"
  },
  "ramayana kannada|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-11-09T09:01:34"
  },
  "ramayana malayalam|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-18T09:02:14"
+  "checked": "2026-11-26T09:02:02"
  },
  "ramayana rise of a legend directors cut|2026|kapoor,pallavi,tiwari,yash": {
   "checked": "2026-11-20T16:01:16"
  },
  "ramayana rise of a legend hindi|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-18T09:02:32"
+  "checked": "2026-11-26T09:02:08"
  },
  "ramayana rise of a legend malayalam|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-10-31T09:16:42"
@@ -5404,7 +5446,7 @@
   "year": 2026
  },
  "ramayana tamil|2026|dubey,kapoor,pallavi,tiwari": {
-  "checked": "2026-11-18T09:02:20"
+  "checked": "2026-11-26T09:02:01"
  },
  "ramayana telugu|2026|dubey,kapoor,pallavi,tiwari": {
   "checked": "2026-11-09T09:01:35"
@@ -5617,6 +5659,9 @@
   "title": "Room on the Broom",
   "year": 2012
  },
+ "roots and resilience stories of land food and change||": {
+  "checked": "2026-11-26T09:02:12"
+ },
  "rose of nevada||": {
   "checked": "2026-11-01T09:20:43",
   "imdb": "tt35674521",
@@ -5672,7 +5717,7 @@
   "year": 2024
  },
  "sathyavin savithri|2026|manjunath,mysskin,parvathi,vijaay": {
-  "checked": "2026-11-18T09:02:17"
+  "checked": "2026-11-26T09:02:00"
  },
  "sathyavin savithri|2026|manjunath,mysskin,suresh,vijaay": {
   "checked": "2026-11-18T09:02:26"
@@ -5767,6 +5812,13 @@
  },
  "screenwriting salon||": {
   "checked": "2026-11-22T10:18:00"
+ },
+ "secret lives of baba segi s wives|2026|adekola,ademoye,aigbe,oriahi": {
+  "checked": "2026-11-26T09:02:04",
+  "imdb": "tt43743835",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGIzZmI0OGYtOWM4Ni00MmZmLTg1YTQtZjQ1MDQyOWVhOWJiXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Secret Lives of Baba Segi's Wives",
+  "year": 2026
  },
  "secret screening 2nd nov|2026|": {
   "checked": "2026-10-30T09:01:49"
@@ -6892,6 +6944,16 @@
    "post-apocalyptic film"
   ],
   "released": "1974-02-06"
+ },
+ "wd|tt0071360": {
+  "genres": [
+   "drama film",
+   "crime film",
+   "mystery film",
+   "thriller film",
+   "psychological thriller film"
+  ],
+  "released": "1974-04-07"
  },
  "wd|tt0071994": {
   "genres": [
@@ -8185,6 +8247,13 @@
   ],
   "released": null
  },
+ "wd|tt20204886": {
+  "genres": [
+   "comedy film",
+   "family film"
+  ],
+  "released": "2025-09-04"
+ },
  "wd|tt20452698": {
   "genres": [],
   "released": null
@@ -8313,6 +8382,15 @@
    "melodrama"
   ],
   "released": "2015-05-17"
+ },
+ "wd|tt2467700": {
+  "genres": [
+   "drama film",
+   "comedy film",
+   "fantasy film",
+   "adventure film"
+  ],
+  "released": "2025-06-09"
  },
  "wd|tt2484120": {
   "genres": [
@@ -9850,6 +9928,10 @@
   "genres": [],
   "released": null
  },
+ "wd|tt43743835": {
+  "genres": [],
+  "released": null
+ },
  "wd|tt44090225": {
   "genres": [],
   "released": null
@@ -10231,13 +10313,13 @@
   "checked": "2026-10-30T13:59:36"
  },
  "we re going on a bear hunt the tiger who came to tea|2026|cumberbatch,harrison,oyelowo,walliams": {
-  "checked": "2026-11-18T09:02:31"
+  "checked": "2026-11-26T09:02:06"
  },
  "we re going on a bear hunt the tiger who came to tea||": {
   "checked": "2026-11-21T09:42:32"
  },
  "we re going on a bear hunt tiger who came to|2026|ferris,greig,harrison,walliams": {
-  "checked": "2026-11-18T09:02:15"
+  "checked": "2026-11-26T09:02:00"
  },
  "we the hated|2026|felgate": {
   "checked": "2026-10-30T09:01:46",
