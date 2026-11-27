@@ -491,8 +491,18 @@
   "title": "Batulo Jun",
   "year": 2026
  },
+ "bco christmas musical bingo live||": {
+  "checked": "2026-11-27T09:01:36"
+ },
  "bebefinn sing along movie|2026|byeon,emmerson,i,kyoung": {
   "checked": "2026-10-22T22:26:26"
+ },
+ "behemoth|2026|arnett,gilroy,pascal,victor": {
+  "checked": "2026-11-27T09:01:33",
+  "imdb": "tt36415529",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDMzOGVkMDktZDg3Zi00MDk2LWJjN2QtZjdmMTg3NDE0YjdlXkEyXkFqcGc@._V1_.jpg",
+  "title": "Behemoth!",
+  "year": 2026
  },
  "behemoth||": {
   "checked": "2026-11-25T17:55:36",
@@ -1308,6 +1318,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
   "title": "Wild Horse Nine",
   "year": 2026
+ },
+ "cfs diamanti||": {
+  "checked": "2026-11-27T09:01:35"
  },
  "cfs kontinental 25||": {
   "checked": "2026-11-13T09:02:11",
@@ -2268,7 +2281,7 @@
   "year": 2026
  },
  "epsom picturehouse film quiz||": {
-  "checked": "2026-11-06T14:57:08"
+  "checked": "2026-11-27T09:01:35"
  },
  "events placeholder 1 hour 30 mins||": {
   "checked": "2026-11-23T19:11:25"
@@ -2933,6 +2946,13 @@
   "title": "Arrival",
   "year": 2016
  },
+ "harbour highlights catch me if you can||": {
+  "checked": "2026-11-27T09:01:36",
+  "imdb": "tt0264464",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+  "title": "Catch Me If You Can",
+  "year": 2002
+ },
  "harbour highlights scream||": {
   "checked": "2026-10-22T22:26:34",
   "imdb": "tt0117571",
@@ -3067,6 +3087,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_.jpg",
   "title": "The Holdovers",
   "year": 2023
+ },
+ "holiday|2006|diaz,law,meyers,winslet": {
+  "checked": "2026-11-27T09:01:33",
+  "imdb": "tt0457939",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holiday",
+  "year": 2006
  },
  "holiday|2025|black,diaz,meyers,winslet": {
   "checked": "2026-11-23T19:11:20",
@@ -4102,6 +4129,13 @@
  "mad world donnie darko||": {
   "checked": "2026-10-30T09:02:05"
  },
+ "made of truth common ground|2026|": {
+  "checked": "2026-11-27T09:01:33",
+  "imdb": "tt27547378",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZiZGYzZjQtZWNmMC00MWYzLTg2MDAtMzYxNWRlZDkwMDcxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Common Ground",
+  "year": 2023
+ },
  "making marie antoinette|2026|coppola": {
   "checked": "2026-10-22T22:26:27",
   "imdb": "tt43656794",
@@ -5113,6 +5147,13 @@
   "title": "Phantom Thread",
   "year": 2017
  },
+ "pillion|2025|hodge,lighton,sharp,skarsgard": {
+  "checked": "2026-11-27T09:01:32",
+  "imdb": "tt32321317",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWEyNTlhYjQtYzNkYi00NTI0LWIzNTYtNjI2Mjg1OGRlMjgxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Pillion",
+  "year": 2025
+ },
  "pip and posy sandpit friends||": {
   "checked": "2026-11-22T15:12:41"
  },
@@ -5371,6 +5412,13 @@
  },
  "projection hold||": {
   "checked": "2026-10-27T09:13:37"
+ },
+ "przepis na swieta|2026|mietielica,niec,stenka,stramowski": {
+  "checked": "2026-11-27T09:01:31",
+  "imdb": "tt52076144",
+  "poster": null,
+  "title": "Przepis Na Swieta",
+  "year": 2026
  },
  "punk brighton||": {
   "checked": "2026-10-22T22:26:31"
@@ -7604,6 +7652,16 @@
   ],
   "released": "2001-05-14"
  },
+ "wd|tt0264464": {
+  "genres": [
+   "drama film",
+   "heist film",
+   "comedy film",
+   "crime film",
+   "biographical film"
+  ],
+  "released": "2002-01-01"
+ },
  "wd|tt0265666": {
   "genres": [
    "comedy film",
@@ -8514,6 +8572,12 @@
   ],
   "released": "2026-02-17"
  },
+ "wd|tt27547378": {
+  "genres": [
+   "documentary film"
+  ],
+  "released": "2023-01-01"
+ },
  "wd|tt27613895": {
   "genres": [
    "comedy film",
@@ -8830,6 +8894,14 @@
    "thriller film"
   ],
   "released": "2026-01-23"
+ },
+ "wd|tt32321317": {
+  "genres": [
+   "drama film",
+   "LGBTQ-related film",
+   "romantic comedy film"
+  ],
+  "released": "2025-05-18"
  },
  "wd|tt32324552": {
   "genres": [],
@@ -10127,6 +10199,10 @@
    "drama film"
   ],
   "released": "2022-07-14"
+ },
+ "wd|tt52076144": {
+  "genres": [],
+  "released": null
  },
  "wd|tt5311514": {
   "genres": [
