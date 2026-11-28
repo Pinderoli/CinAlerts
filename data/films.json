@@ -150,6 +150,13 @@
   "title": "Teenage Sex and Death at Camp Miasma",
   "year": 2026
  },
+ "after dark the holdovers|2026|giamatti,payne,randolph,sessa": {
+  "checked": "2026-11-28T16:06:48",
+  "imdb": "tt14849194",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_.jpg",
+  "title": "The Holdovers",
+  "year": 2023
+ },
  "after dark the piano teacher|2026|girardot,haneke,huppert,magimel": {
   "checked": "2026-10-31T09:16:37",
   "imdb": "tt0254686",
@@ -185,7 +192,7 @@
   "year": 2026
  },
  "ali plumbs untitled christmas film quiz project||": {
-  "checked": "2026-11-21T09:42:29"
+  "checked": "2026-11-28T16:06:51"
  },
  "ali plumbs untitled film quiz project||": {
   "checked": "2026-11-09T09:02:21"
@@ -1900,7 +1907,7 @@
   "checked": "2026-11-26T17:40:26"
  },
  "disney s hexed||": {
-  "checked": "2026-11-21T09:42:27"
+  "checked": "2026-11-28T16:06:50"
  },
  "disney s hexed||jones,steinfeld,ullman,veerasunthorn": {
   "checked": "2026-11-23T19:11:20"
@@ -2362,6 +2369,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ODQ0OWItNzcyOC00MmRhLTlhNjAtYjgyNTY2OTVmMjg4XkEyXkFqcGc@._V1_.jpg",
   "title": "The Eyes of Ghana",
   "year": 2025
+ },
+ "eyes wide shut|2025|cruise,eginton,kidman,kubrick": {
+  "checked": "2026-11-28T16:06:48",
+  "imdb": "tt0120663",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_.jpg",
+  "title": "Eyes Wide Shut",
+  "year": 1999
  },
  "eyes wide shut|2026|cruise,field,kidman,kubrick": {
   "checked": "2026-11-25T09:00:54",
@@ -4081,6 +4095,13 @@
  "little theatre s 90th mr deeds goes to town||": {
   "checked": "2026-11-23T19:11:22"
  },
+ "little women|2026|alvarado,armstrong,logue,ryder": {
+  "checked": "2026-11-28T16:06:48",
+  "imdb": "tt0110367",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MGY3Y2ItMDQzMy00MGNlLThmOWMtNzE3N2ZhMTQ2YTkwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Little Women",
+  "year": 1994
+ },
  "live music night||": {
   "checked": "2026-11-27T17:24:51"
  },
@@ -4191,6 +4212,13 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BMTZiZGYzZjQtZWNmMC00MWYzLTg2MDAtMzYxNWRlZDkwMDcxXkEyXkFqcGc@._V1_.jpg",
   "title": "Common Ground",
   "year": 2023
+ },
+ "maida vale at 15 about a boy|2026|collette,grant,weisz,weitz": {
+  "checked": "2026-11-28T16:06:49",
+  "imdb": "tt0276751",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_.jpg",
+  "title": "About a Boy",
+  "year": 2002
  },
  "making marie antoinette|2026|coppola": {
   "checked": "2026-10-22T22:26:27",
@@ -6291,7 +6319,7 @@
   "checked": "2026-11-25T09:00:53"
  },
  "spider man brand new brand new day|2026|bernthal,cretton,holland,zendaya": {
-  "checked": "2026-11-21T09:42:17"
+  "checked": "2026-11-28T16:06:46"
  },
  "spider man brand new brand new day|2026|cretton,holland,sink,zendaya": {
   "checked": "2026-11-23T19:11:22"
@@ -7813,6 +7841,14 @@
    "musical film"
   ],
   "released": "2002-02-13"
+ },
+ "wd|tt0276751": {
+  "genres": [
+   "romantic comedy",
+   "comedy drama",
+   "drama film"
+  ],
+  "released": "2002-04-26"
  },
  "wd|tt0286499": {
   "genres": [
@@ -10545,7 +10581,7 @@
   "checked": "2026-11-26T09:02:06"
  },
  "we re going on a bear hunt the tiger who came to tea||": {
-  "checked": "2026-11-21T09:42:32"
+  "checked": "2026-11-28T16:06:49"
  },
  "we re going on a bear hunt tiger who came to|2026|ferris,greig,harrison,walliams": {
   "checked": "2026-11-26T09:02:00"
