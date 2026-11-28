@@ -259,6 +259,13 @@
   "title": "American Doctor",
   "year": 2026
  },
+ "american library it s a wonderful life||": {
+  "checked": "2026-11-28T09:06:03",
+  "imdb": "tt0038650",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+  "title": "It's a Wonderful Life",
+  "year": 1946
+ },
  "andrew lloyd webber s starlight express|2026|braich,marvin,ringrose,sullivan": {
   "checked": "2026-11-13T09:02:07",
   "imdb": "tt50017070",
@@ -646,6 +653,13 @@
   "title": "Yeelen",
   "year": 1987
  },
+ "black christmas||": {
+  "checked": "2026-11-28T09:06:02",
+  "imdb": "tt0071222",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGUyNmY5MGQtN2FjNC00MmY0LTk5NWMtYzZiMGYzNGMxYWEyXkEyXkFqcGc@._V1_.jpg",
+  "title": "Black Christmas",
+  "year": 1974
+ },
  "black is boundless a short film series||": {
   "checked": "2026-10-22T22:26:33"
  },
@@ -819,7 +833,7 @@
   "checked": "2026-11-24T09:02:16"
  },
  "carmen|2026|gonzalez,jackson,michieletto,thomas": {
-  "checked": "2026-11-20T09:01:44"
+  "checked": "2026-11-28T09:06:00"
  },
  "carmen|2026|jackson,michieletto,rea,vinogradov": {
   "checked": "2026-11-04T09:02:19"
@@ -2128,6 +2142,13 @@
   "title": "Dune",
   "year": 2021
  },
+ "dune|2026|chalamet,ferguson,isaac,villeneuve": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt1160419",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
+  "title": "Dune",
+  "year": 2021
+ },
  "ebenezer|2026|claflin,depp,grint,west": {
   "checked": "2026-11-05T15:22:32",
   "imdb": "tt38773219",
@@ -2521,7 +2542,7 @@
   "checked": "2026-11-24T09:02:09"
  },
  "four|2026|aiyeola,akindele,arukwe": {
-  "checked": "2026-11-20T09:01:39"
+  "checked": "2026-11-28T09:05:58"
  },
  "fox under a pink moon|2026|oskouei": {
   "checked": "2026-11-10T09:02:23",
@@ -2788,8 +2809,29 @@
   "title": "We, the Hated",
   "year": 2026
  },
+ "grinch|2021|cumberbatch,mosier,seely,williams": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt2709692",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM4OTcxNzQtMTQ3OC00ZGVmLWJmNDUtYzczZmU2ZDFmOTdhXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Grinch",
+  "year": 2018
+ },
+ "grinch|2024|cheney,cumberbatch,jones,seely": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt2709692",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM4OTcxNzQtMTQ3OC00ZGVmLWJmNDUtYzczZmU2ZDFmOTdhXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Grinch",
+  "year": 2018
+ },
  "gruffalo the gruffalo s child|2026|brydon,coltrane,henderson,schuh": {
   "checked": "2026-10-22T22:26:26",
+  "imdb": "tt1461418",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRjYmRmYTktZjhkNS00ZmQzLWE2MzQtYmNjODVjMDc5MzEwXkEyXkFqcGc@._V1_.jpg",
+  "title": "The Gruffalo",
+  "year": 2009
+ },
+ "gruffalo||": {
+  "checked": "2026-11-28T09:06:03",
   "imdb": "tt1461418",
   "poster": "https://m.media-amazon.com/images/M/MV5BZGRjYmRmYTktZjhkNS00ZmQzLWE2MzQtYmNjODVjMDc5MzEwXkEyXkFqcGc@._V1_.jpg",
   "title": "The Gruffalo",
@@ -3563,6 +3605,20 @@
  },
  "irregular at magic high school yotsuba succession arc japanese|2026|hayami,nakamura,saito,stone": {
   "checked": "2026-11-04T09:02:31"
+ },
+ "it s a wonderful life|2026|barrymore,capra,reed,stewart": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt0038650",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+  "title": "It's a Wonderful Life",
+  "year": 1946
+ },
+ "it s a wonderful life||": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt0038650",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+  "title": "It's a Wonderful Life",
+  "year": 1946
  },
  "it s nice up north||": {
   "checked": "2026-10-22T22:26:31",
@@ -5417,6 +5473,13 @@
   "title": "Prisoners",
   "year": 2013
  },
+ "project hail mary|2026|gosling,huller,lord,vayntrub": {
+  "checked": "2026-11-28T09:06:00",
+  "imdb": "tt12042730",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg",
+  "title": "Project Hail Mary",
+  "year": 2026
+ },
  "projection hold||": {
   "checked": "2026-10-27T09:13:37"
  },
@@ -6158,7 +6221,14 @@
   "year": 2025
  },
  "snowmantm and the snowmantm and the snowdog|2026|": {
-  "checked": "2026-11-20T09:01:37"
+  "checked": "2026-11-28T09:05:58"
+ },
+ "snuff bottle connection the hot the cool and the vicious||": {
+  "checked": "2026-11-28T09:06:02",
+  "imdb": "tt0076699",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA1MzdlMmUtN2VmNS00MTY5LTkxMWYtZTM5NzBkMzQ5OGRjXkEyXkFqcGc@._V1_.jpg",
+  "title": "Snuff Bottle Connection",
+  "year": 1977
  },
  "social reckoning|2026|madison,magnussen,mosaku,sorkin": {
   "checked": "2026-10-22T22:26:26",
@@ -6579,6 +6649,20 @@
   "title": "Tuner",
   "year": 2025
  },
+ "tutu|2026|pollard": {
+  "checked": "2026-11-28T09:05:59",
+  "imdb": "tt39382862",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJiMDVkZTYtMTlhNi00YzY4LTljYmQtNTk5NTc1NDA5MjNkXkEyXkFqcGc@._V1_.jpg",
+  "title": "Tutu",
+  "year": 2026
+ },
+ "tutu||": {
+  "checked": "2026-11-28T09:06:02",
+  "imdb": "tt39382862",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJiMDVkZTYtMTlhNi00YzY4LTljYmQtNTk5NTc1NDA5MjNkXkEyXkFqcGc@._V1_.jpg",
+  "title": "Tutu",
+  "year": 2026
+ },
  "udta teer hindi|2026|bose,kaushik,khan,khurrana": {
   "checked": "2026-10-30T09:01:55"
  },
@@ -6829,6 +6913,17 @@
   ],
   "released": "1944-01-01"
  },
+ "wd|tt0038650": {
+  "genres": [
+   "comedy film",
+   "drama film",
+   "fantasy film",
+   "romantic comedy film",
+   "flashback film",
+   "Christmas film"
+  ],
+  "released": "1946-12-20"
+ },
  "wd|tt0039628": {
   "genres": [
    "drama film",
@@ -7019,6 +7114,14 @@
   ],
   "released": "1974-02-06"
  },
+ "wd|tt0071222": {
+  "genres": [
+   "horror film",
+   "slasher film",
+   "Christmas film"
+  ],
+  "released": "1974-10-11"
+ },
  "wd|tt0071360": {
   "genres": [
    "drama film",
@@ -7075,6 +7178,14 @@
    "hood film"
   ],
   "released": "1977-01-01"
+ },
+ "wd|tt0076699": {
+  "genres": [
+   "action film",
+   "martial arts film",
+   "Ostern"
+  ],
+  "released": "1977-09-15"
  },
  "wd|tt0077651": {
   "genres": [
@@ -8041,6 +8152,15 @@
   ],
   "released": "2026-11-05"
  },
+ "wd|tt12042730": {
+  "genres": [
+   "action film",
+   "science fiction film",
+   "Hopecore",
+   "adventure film"
+  ],
+  "released": "2026-03-18"
+ },
  "wd|tt1219827": {
   "genres": [
    "cyberpunk",
@@ -8537,6 +8657,13 @@
    "crime thriller film"
   ],
   "released": "2026-10-02"
+ },
+ "wd|tt2709692": {
+  "genres": [
+   "comedy film",
+   "Christmas film"
+  ],
+  "released": "2018-11-09"
  },
  "wd|tt27124947": {
   "genres": [],
@@ -10624,6 +10751,9 @@
   "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
   "title": "Witness for the Prosecution",
   "year": 1957
+ },
+ "woggle premiere screening||": {
+  "checked": "2026-11-28T09:06:01"
  },
  "wolf man||": {
   "checked": "2026-10-22T22:26:33",
